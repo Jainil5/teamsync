@@ -17,7 +17,6 @@ import html
 # ---------------------------
 # Configuration
 # ---------------------------
-MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://jainiljp72525:messi%401010@users.9tdxb.mongodb.net/")  # set this in env for production
 DB_NAME = os.environ.get("DB_NAME", "TEAMSYNC")
 
 # ---------------------------

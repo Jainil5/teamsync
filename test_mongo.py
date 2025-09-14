@@ -1,9 +1,9 @@
 from pymongo import MongoClient
-
+from creds import URL
     # ----------------------------------------------------------------------------
     # IMPORTANT: Replace the placeholder values with your actual data.
     # ----------------------------------------------------------------------------
-mongo_uri = "mongodb+srv://jainiljp72525:messi%401010@users.9tdxb.mongodb.net/"
+mongo_uri = URL
 database_name = "TEAMSYNC"
 collection_users = "USERS"
 collection_messages = "MESSAGES"

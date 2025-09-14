@@ -8,7 +8,6 @@ import hashlib
 # -----------------------
 # MongoDB CONNECTION
 # -----------------------
-mongo_uri = "mongodb+srv://jainiljp72525:messi%401010@users.9tdxb.mongodb.net/"
 database_name = "TEAMSYNC"
 collection_users = "USERS"
 collection_messages = "MESSAGES"
