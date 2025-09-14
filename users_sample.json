@@ -1,0 +1,75 @@
+[{
+    "user_id": "user_1",
+    "password": "user_1",
+    "username": "Jainil Patel",
+    "gender":"Male",
+    "age":24,
+    "email": "jainiljp72525@gmail.com",
+    "profile_picture_url": "https://placehold.co/100x100/A5C9A4/000000?text=AJ",
+    "role": ["admin","hr","backend developer"],
+    "primary_language": "english",
+    "created_at": "2025-08-20T10:00:00Z"
+  },
+{
+    "user_id": "user_2",
+    "password": "user_2",
+    "username": "Lionel Messi",
+    "gender":"Male",
+    "age":38,
+    "email": "messi10@gmail.com",
+    "profile_picture_url": "https://placehold.co/100x100/A5C9A4/000000?text=AJ",
+    "role": ["ceo"],
+    "primary_language": "spanish",
+    "created_at": "2025-08-20T10:00:00Z"
+  },
+  {
+    "user_id": "user_3",
+    "password": "user_3",
+    "username": "Dev G",
+    "gender":"Male",
+    "age":22,
+    "email": "dev@gmail.com",
+    "profile_picture_url": "https://placehold.co/100x100/A5C9A4/000000?text=AJ",
+    "role": ["web developer"],
+    "primary_language": "english",
+    "created_at": "2025-08-20T10:00:00Z",
+    "last_active_at": "2025-09-13T12:55:00Z"
+  },
+  {
+    "user_id": "user_4",
+    "password": "user_4",
+    "username": "Mann Shah",
+    "gender":"Male",
+    "age":23,
+    "email": "mann@gmail.com",
+    "profile_picture_url": "https://placehold.co/100x100/A5C9A4/000000?text=AJ",
+    "role": ["web developer"],
+    "primary_language": "english",
+    "created_at": "2025-08-20T10:00:00Z"
+  },
+  {
+    "user_id": "user_5",
+    "password": "user_5",
+    "username": "Megha Desai",
+    "gender":"Female",
+    "age":22,
+    "email": "megha@gmail.com",
+    "profile_picture_url": "https://placehold.co/100x100/A5C9A4/000000?text=AJ",
+    "role": ["sales manager","backend developer"],
+    "primary_language": "english",
+    "created_at": "2025-08-20T10:00:00Z"
+  },
+  {
+    "user_id": "user_6",
+    "password": "user_6",
+    "username": "Riya Joshi",
+    "gender":"Female",
+    "age":21,
+    "email": "riya@gmail.com",
+    "profile_picture_url": "https://placehold.co/100x100/A5C9A4/000000?text=AJ",
+    "role": ["backend developer"],
+    "primary_language": "english",
+    "created_at": "2025-08-20T10:00:00Z"
+  }
+  
+]

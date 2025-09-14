@@ -1,0 +1,61 @@
+[
+    {
+      "message_id": "msg_1",
+      "sender_user_id": "user_1",
+      "receiver_user_id": "user_2",
+      "team_id": 0,
+      "content": "Hello. Welcome to the team!",
+      "translated": "",
+      "date": "2025-09-13",
+      "time": "17:30:00"
+    },
+    {
+      "message_id": "msg_2",
+      "sender_user_id": "user_1",
+      "receiver_user_id": "user_3",
+      "team_id": 0,
+      "content": "Hello! Welcome to the team!",
+      "translated": "",
+      "date": "2025-09-13",
+      "time": "17:30:00"
+    },
+    {
+      "message_id": "msg_3",
+      "sender_user_id": "user_1",
+      "receiver_user_id": "user_4",
+      "team_id": 0,
+      "content": "Hello! Welcome to the team!",
+      "date": "2025-09-13",
+      "time": "17:30:00"
+    },
+    {
+      "message_id": "msg_4",
+      "sender_user_id": "user_2",
+      "receiver_user_id": "user_1",
+      "team_id": 0,
+      "content": "Hello. Yes, lets connect today.",
+      "translated": "",
+      "date": "2025-09-13",
+      "time": "17:30:00"
+    },
+    {
+      "message_id": "msg_2",
+      "sender_user_id": "user_3",
+      "receiver_user_id": "user_1",
+      "team_id": 0,
+      "content": "Thanks. Can you send me the breifings?",
+      "translated": "",
+      "date": "2025-09-13",
+      "time": "17:30:00"
+    },
+    {
+      "message_id": "msg_3",
+      "sender_user_id": "user_4",
+      "receiver_user_id": "user_1",
+      "team_id": 0,
+      "content": "Hi. Let me know what to work on today.",
+      "translated": "",
+      "date": "2025-09-13",
+      "time": "17:30:00"
+    }
+  ]
