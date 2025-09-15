@@ -1,5 +1,5 @@
 from pymongo import MongoClient
-from creds import URL
+from frontend.creds import URL
     # ----------------------------------------------------------------------------
     # IMPORTANT: Replace the placeholder values with your actual data.
     # ----------------------------------------------------------------------------
@@ -19,11 +19,19 @@ main_db = client[database_name]
 users_db = main_db[collection_users]
 messages_db = main_db[collection_messages]
 
+
+
 # for doc in users_db.find():
 #     print(doc)
 # for doc in messages_db.find():
 #     print(doc)    
 
-messages = messages_db.find_one({"sender_user_id":"user_1","receiver_user_id":"user_2"})
+# for doc in messages_db.find():    
+#     print(doc["content"])
 
-print(messages)
+# new_user = "10"
+# collection = main_db["10"]
+
+# # 4. Insert a document (this also creates the collection if it doesn’t exist yet)
+# doc = {"to": "user_2", "content": "Hello!", "city": "New York"}
+# collection.insert_one(doc)    
