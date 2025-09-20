@@ -5,6 +5,7 @@ from datetime import datetime
 import json
 import time
 from frontend.creds import URL # Assuming creds.py contains the MongoDB URL
+import certifi
 
 app = Flask(__name__)
 
@@ -20,12 +21,12 @@ collection_messages = "MESSAGES"
 # db.createCollection("MESSAGES", { capped: true, size: 1000000 }) # 1MB capped collection
 
 try:
-    client = MongoClient(mongo_uri)
-    client.admin.command("ping")
-    print("✅ Connected to MongoDB")
-except Exception as e:
-    print(f"❌ MongoDB connection failed: {e}")
-
+    client = MongoClient(mongo_uri,
+        client.admin.command("ping")
+        print("✅ Connected to MongoDB")
+    except Exception as e:
+        print(f"❌ MongoDB connection failed: {e}")
+    )
 main_db = client[database_name]
 users_db = main_db[collection_users]
 messages_db = main_db[collection_messages]
