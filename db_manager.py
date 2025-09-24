@@ -30,7 +30,7 @@ users_col = users_db
 messages_col = messages_db
 
 # --------------------------------------
-def get_users_data(user_id):
+def get_other_users_data(user_id):
     """Fetch list of all users"""
     final = {}
     for doc in users_db.find():
@@ -73,9 +73,8 @@ def get_chat_history(user1_id: str, user2_id: str):
     return list(sorted_data)
 
 
-def add_message(sender_id: str, receiver_id: str, content: str, team_id: int = 0, translated: str = ""):
-    """Insert a new message"""
-    
+def add_message(sender_id: str, receiver_id: str, content: str, team_id: int = 0, ):
+
     message = {
         "message_id": f"msg_{int(datetime.utcnow().timestamp())}",  # unique msg id
         "sender_user_id": sender_id,
@@ -97,40 +96,33 @@ def add_message(sender_id: str, receiver_id: str, content: str, team_id: int = 0
 
 
 
+
+0
+
+
 # -------------------------------
 # USER MANAGEMENT
 # -------------------------------
-def get_user_by_id(user_id: str):
-    """Fetch a single user by user_id"""
-    return users_col.find_one({"user_id": user_id}, {"_id": 0})
+# def get_user_by_id(user_id: str):
+#     """Fetch a single user by user_id"""
+#     return users_col.find_one({"user_id": user_id}, {"_id": 0})
 
-def get_all_users():
-    """Fetch all users with only user_id and name"""
-    return list(users_col.find({}, {"_id": 0, "user_id": 1, "name": 1}))
-
-
-def create_user(user_data: dict):
-    """Insert a new user"""
-    user_data["created_at"] = datetime.utcnow().isoformat()
-    return users_col.insert_one(user_data)
-
-# -------------------------------
 # MESSAGE MANAGEMENT
 # -------------------------------
-def add_message(sender_id: str, receiver_id: str, content: str, team_id: int = 0, translated: str = ""):
-    """Insert a new message"""
-    message = {
-        "message_id": f"msg_{int(datetime.utcnow().timestamp())}",  # unique msg id
-        "sender_user_id": sender_id,
-        "receiver_user_id": receiver_id,
-        "team_id": team_id,
-        "content": content,
-        "translated": translated,
-        "date": datetime.utcnow().strftime("%Y-%m-%d"),
-        "time": datetime.utcnow().strftime("%H:%M:%S"),
-    }
-    messages_col.insert_one(message)
-    return message
+# def add_message(sender_id: str, receiver_id: str, content: str, team_id: int = 0, translated: str = ""):
+#     """Insert a new message"""
+#     message = {
+#         "message_id": f"msg_{int(datetime.utcnow().timestamp())}",  # unique msg id
+#         "sender_user_id": sender_id,
+#         "receiver_user_id": receiver_id,
+#         "team_id": team_id,
+#         "content": content,
+#         "translated": translated,
+#         "date": datetime.utcnow().strftime("%Y-%m-%d"),
+#         "time": datetime.utcnow().strftime("%H:%M:%S"),
+#     }
+#     messages_col.insert_one(message)
+#     return message
 
 # def get_chat_history(user1_id: str, user2_id: str):
 #     """Fetch chat history between two users"""
@@ -145,9 +137,7 @@ def add_message(sender_id: str, receiver_id: str, content: str, team_id: int = 0
 #     ).sort("date", 1).sort("time", 1)
 #     return list(chats)
 
-def get_messages_for_user(user_id: str):
-    """Fetch all messages for a specific user"""
-    return list(messages_col.find(
-        {"$or": [{"sender_user_id": user_id}, {"receiver_user_id": user_id}]},
-        {"_id": 0}
-    ).sort("date", 1).sort("time", 1))
+# def get_all_users():
+#     """Fetch all users with only user_id and name"""
+#     return list(users_col.find({}, {"_id": 0, "user_id": 1, "name": 1}))
+
