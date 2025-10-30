@@ -4,7 +4,7 @@
 import streamlit as st
 from pymongo import MongoClient
 import hashlib
-
+from utils.creds import URL
 # -----------------------
 # MongoDB CONNECTION
 # -----------------------
@@ -12,7 +12,7 @@ database_name = "TEAMSYNC"
 collection_users = "USERS"
 collection_messages = "MESSAGES"
 try:
-        client = MongoClient(mongo_uri)
+        client = MongoClient(URL)
         client.admin.command('ping')
         print("Connection to MongoDB successful.")
         

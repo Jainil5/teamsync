@@ -1,14 +1,13 @@
 import streamlit as st
-from db_manager import get_other_users_data, get_user_name, get_chat_history, get_user_id, add_message
+from utils.db_manager import get_other_users_data, get_user_name, get_chat_history, get_user_id, add_message,get_job_role,get_language
 from streamlit_autorefresh import st_autorefresh  
 
 # -------------------
 # Config & Variables
 # -------------------
-user_id = "user_1"
+user_id = "user_3"
 user_name = get_user_name(user_id)
-job_role = "Software Developer"
-
+language = get_language(user_id)
 st.set_page_config(
     page_title=f"{user_name}'s TeamSync",
     page_icon=":speech_balloon:",
@@ -21,10 +20,10 @@ st.set_page_config(
 if "selected_chat" not in st.session_state:
     st.session_state["selected_chat"] = "HOME"
 
-st_autorefresh(interval=10_000, key="refresh_chat")
+st_autorefresh(interval=20_000, key="refresh_chat")
 
 welcome_text = f"Hello, {user_name} !"
-user_list = get_users_data(user_id)
+user_list = get_other_users_data(user_id)
 
 main_list = ["HOME"]
 main_list.extend(user_list.values())
@@ -76,7 +75,7 @@ else:
                 <img src='https://cdn-icons-png.flaticon.com/512/149/149071.png' style='border-radius:50%; width:60px; height:60px;'/>
                 <h3 style='margin:0; color:white;'>{to}</h3>
             </div>
-            <h2 style='margin:0; color:white;'>{job_role}</h2>
+            <h2 style='margin:0; color:white;'>{get_job_role(get_user_id(to))}</h2>
         </div>
         """,
         unsafe_allow_html=True
@@ -90,22 +89,35 @@ else:
     message_list = get_chat_history(user_id, to_id)
     
     for message in message_list:
-        if message["content"] and message["content"].strip() != "":
-            if message["sender_user_id"] == user_id:
-                st.markdown(
-                    f"<div style='padding:10px 14px; border-radius:12px; margin:5px 0; max-width:70%; word-wrap:break-word; white-space:pre-wrap; font-size:15px; color:black; background:#d4f7d4; margin-left:auto; text-align:right;'>{message['content']}</div>",
-                    unsafe_allow_html=True
-                )
-            else:
-                st.markdown(
-                    f"<div style='padding:10px 14px; border-radius:12px; margin:5px 0; max-width:70%; word-wrap:break-word; white-space:pre-wrap; font-size:15px; color:black; background:#d4eaff; border:1px solid #ddd; margin-right:auto; text-align:left;'>{message['content']}</div>",
-                    unsafe_allow_html=True
-                )
+        content = message["content"].strip()
+        if not content:
+            continue
 
+        # Determine if current user is sender
+        is_sender = message["sender_user_id"] == user_id
 
+        # Decide what text to display
+        if is_sender or get_language(user_id) == "english":
+            display_text = content
+        else:
+            display_text = message.get("translated", content)
+
+        # Styling
+        bg_color = "#d4f7d4" if is_sender else "#d4eaff"
+        border_style = "" if is_sender else "border:1px solid #ddd;"
+
+        # Use flexbox to align left/right
+        st.markdown(
+            f"<div style='display:flex; justify-content:{'flex-end' if is_sender else 'flex-start'}; margin:5px 0;'>"
+            f"<div style='display:inline-block; padding:10px 14px; border-radius:12px; "
+            f"word-wrap:break-word; white-space:pre-wrap; font-size:30px; color:black; "
+            f"background:{bg_color}; {border_style}; max-width:70%;'>{display_text}</div>"
+            f"</div>",
+            unsafe_allow_html=True
+        )
     
     # Input field
-    input_msg = st.chat_input(f"Enter Message for {str(user_name).upper()} - ( {str(job_role).upper()} )")
+    input_msg = st.chat_input(f"Enter Message for {str(to).upper()} - ( {str(get_job_role(to_id)).upper()} )")
     if input_msg:
         add_message(user_id, to_id, input_msg)
         st.rerun()

@@ -1,6 +1,0 @@
-streamlit
-pymongo
-flask
-streamlit-autorefresh
-langchain
-langchain-ollama

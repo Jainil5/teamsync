@@ -1,0 +1,12 @@
+streamlit
+pymongo
+flask
+streamlit-autorefresh
+langchain
+langchain-ollama
+streamlit-drawable-canvas
+transformers 
+datasets 
+peft 
+accelerate 
+bitsandbytes

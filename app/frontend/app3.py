@@ -1,5 +1,5 @@
 import streamlit as st
-from db_manager import get_users_data, get_user_name,get_chat_history, get_user_id, add_message
+from backend.utils.db_manager import get_users_data, get_user_name,get_chat_history, get_user_id, add_message
 from datetime import datetime
 import time
 
