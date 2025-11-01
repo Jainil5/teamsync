@@ -10,3 +10,9 @@ datasets
 peft 
 accelerate 
 bitsandbytes
+hf-xet
+scikit-learn
+joblib
+evaluate
+numpy
+pandas
