@@ -1,5 +1,3 @@
-# pip install hf_xet
-
 import torch
 import pandas as pd
 from datasets import Dataset

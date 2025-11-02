@@ -4,11 +4,12 @@ flask
 streamlit-autorefresh
 langchain
 langchain-ollama
+langchain-community
 streamlit-drawable-canvas
-transformers 
-datasets 
-peft 
-accelerate 
+transformers
+datasets
+peft
+accelerate
 bitsandbytes
 hf-xet
 scikit-learn
@@ -16,3 +17,4 @@ joblib
 evaluate
 numpy
 pandas
+pypdf
