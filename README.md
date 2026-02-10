@@ -48,3 +48,34 @@
 
 
 ---
+
+## Application Screenshots
+
+### 1. HR Bot
+![HR Bot](backend/test_images/test1.png)
+
+### 2. HR Bot
+![HR Bot](backend/test_images/test2.png)
+
+### 3. HR Bot
+![HR Bot](backend/test_images/test3.png)
+
+### 4. HR Bot
+![HR Bot](backend/test_images/test4.png)
+
+### 5. HR Bot
+![HR Bot](backend/test_images/test5.png)
+
+### 6. HR Bot
+![HR Bot](backend/test_images/test6.png)
+
+### 7. HR Bot
+![HR Bot](backend/test_images/test9.png)
+
+### 8. HR Bot
+![HR Bot](backend/test_images/test8.png)
+
+
+
+
+

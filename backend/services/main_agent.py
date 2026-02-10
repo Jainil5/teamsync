@@ -67,10 +67,6 @@ def predict_event(text: str):
     return str(predict_intent(text)).lower() + " added."
 
 
-@tool
-def smart_review(text: str):
-    """Generate a professional response to a customer review."""
-    return str(generate_response(text)).lower() + " added."
 
 # -------------------- AGENT PROMPT --------------------
 agent_prompt = """
