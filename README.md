@@ -51,31 +51,29 @@
 
 ## Application Screenshots
 
-### 1. HR Bot
+### 1. HR Bot - uses RAG on company-specific documents
 ![HR Bot](backend/test_images/test1.png)
 
-### 2. HR Bot
+### 2. HR Bot - uses a semantic file search system
 ![HR Bot](backend/test_images/test2.png)
 
-### 3. HR Bot
+### 3. HR Bot - uses a semantic file search system
 ![HR Bot](backend/test_images/test3.png)
 
-### 4. HR Bot
-![HR Bot](backend/test_images/test4.png)
-
-### 5. HR Bot
+### 4. HR Bot - SQL Query generator with automation over company datasets.
 ![HR Bot](backend/test_images/test5.png)
 
-### 6. HR Bot
+### 5. HR Bot - uses RAG
 ![HR Bot](backend/test_images/test6.png)
 
-### 7. HR Bot
+### 6. Automated Review Responder 
 ![HR Bot](backend/test_images/test9.png)
 
-### 8. HR Bot
+### 7. Automated Review Responder
 ![HR Bot](backend/test_images/test8.png)
 
-
+### 8. Chat for communication
+![HR Bot](backend/test_images/test4.png)
 
 
 
