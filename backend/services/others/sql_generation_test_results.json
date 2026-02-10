@@ -1,0 +1,86 @@
+{
+  "sales": [
+    {
+      "question": "Find names of customers who bought Sneakers.",
+      "generated_sql": "SELECT \"Name\"\nFROM Sales\nWHERE \"Product bought\" = 'Sneakers';"
+    },
+    {
+      "question": "List customer emails who paid using CASH.",
+      "generated_sql": "SELECT \"Mail ID\"\nFROM Sales\nWHERE \"Payment mode\" = 'CASH';"
+    },
+    {
+      "question": "Get total revenue for customers who used CARD.",
+      "generated_sql": "SELECT 'Total Revenue' AS total_revenue\nFROM Sales\nWHERE \"Payment mode\" = 'Card';"
+    },
+    {
+      "question": "Find customers who received any discount.",
+      "generated_sql": "SELECT \"Customer ID\"\nFROM Sales\nWHERE \"Discount Applied\" = 1;"
+    },
+    {
+      "question": "Show average revenue by category.",
+      "generated_sql": "SELECT \"Category\", AVG(\"Revenue\") AS AvgRevenue\nFROM Sales\nGROUP BY \"Category\";"
+    },
+    {
+      "question": "List products that were returned.",
+      "generated_sql": "SELECT \"Name\"\nFROM Sales\nWHERE \"Returned Status\" = 'Yes';"
+    },
+    {
+      "question": "Find customers aged more than 40.",
+      "generated_sql": "SELECT *\nFROM Sales\nWHERE \"Age\" > 40;"
+    },
+    {
+      "question": "Get total discount amount for the month of October.",
+      "generated_sql": "SELECT SUM(\"Discount Amount\") AS TotalDiscount\nFROM Sales\nWHERE \"Month\" = 'October';"
+    },
+    {
+      "question": "Find customer IDs who bought products of size M.",
+      "generated_sql": "SELECT \"Customer ID\"\nFROM Sales\nWHERE \"Product bought\" = 'Sneakers';"
+    },
+    {
+      "question": "Show total revenue for the year 2024.",
+      "generated_sql": "SELECT SUM(\"Revenue\") AS TotalRevenue\nFROM Sales\nWHERE \"Year\" = 2024;"
+    }
+  ],
+  "healthcare": [
+    {
+      "question": "Find patients with blood type A+.",
+      "generated_sql": "SELECT *\nFROM Health\nWHERE \"Medical Condition\" = 'Obesity';"
+    },
+    {
+      "question": "List names of patients admitted under Emergency.",
+      "generated_sql": "SELECT \"Name\"\nFROM Health\nWHERE \"Admission Type\" = 'Emergency';"
+    },
+    {
+      "question": "Get total billing amount for each insurance provider.",
+      "generated_sql": "SELECT \"Billing Amount\"\nFROM Health\nGROUP BY \"Insurance Provider\";"
+    },
+    {
+      "question": "Find patients older than 60.",
+      "generated_sql": "SELECT *\nFROM Health\nWHERE \"Age\" > 60;"
+    },
+    {
+      "question": "Show average billing amount for female patients.",
+      "generated_sql": "SELECT AVG(\"Billing Amount\") AS AverageBillingAmount\nFROM Health\nWHERE \"Gender\" = 'Female';"
+    },
+    {
+      "question": "List patients treated by Matthew Smith.",
+      "generated_sql": "SELECT *\nFROM Health\nWHERE Doctor = 'Matthew Smith';"
+    },
+    {
+      "question": "Find patients admitted in room numbers greater than 300.",
+      "generated_sql": "SELECT *\nFROM Health\nWHERE \"Room Number\" > 300;"
+    },
+    {
+      "question": "Show patients with Normal test results.",
+      "generated_sql": "SELECT *\nFROM Health\nWHERE \"Test Results\" = 'Normal';"
+    },
+    {
+      "question": "Get total billing amount for Emergency admissions.",
+      "generated_sql": "SELECT SUM(\"Billing Amount\") AS TotalBillingAmount\nFROM Health\nWHERE \"Admission Type\" = 'Emergency';"
+    },
+    {
+      "question": "List patients discharged after 2022.",
+      "generated_sql": "SELECT *\nFROM Health\nWHERE \"Discharge Date\" > '2022-02-02';"
+    }
+  ]
+}

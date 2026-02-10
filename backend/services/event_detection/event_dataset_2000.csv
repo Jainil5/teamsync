@@ -1,0 +1,2001 @@
+message,label
+We talked Monday.,NO_EVENT
+This should have been done by Sunday.,NO_EVENT
+We need to meet today evening.,EVENT
+Schedule a call with John on this Friday.,EVENT
+We could have connected tonight.,NO_EVENT
+Please complete this by next week.,EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+I was busy Tuesday.,NO_EVENT
+You could have done this by tomorrow.,NO_EVENT
+We need to meet tonight.,EVENT
+We need to meet tonight.,EVENT
+I was busy next week.,NO_EVENT
+We could have connected today evening.,NO_EVENT
+Join the meeting at at 8PM.,EVENT
+Finish the report by Sunday.,EVENT
+We talked Monday.,NO_EVENT
+Finish the report by tomorrow.,EVENT
+Remind me to send the document Tuesday.,EVENT
+Join the meeting at tonight.,EVENT
+Remind me to email Sarah Tuesday.,EVENT
+Let's sync up tomorrow.,EVENT
+"You might complete it by Tuesday, but I'm unsure.",NO_EVENT
+Can this be completed by Monday?,NO_EVENT
+We could have connected tonight.,NO_EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+Ping me Sunday.,EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+Remind me to review the code tomorrow.,EVENT
+Let's discuss about backend Sunday.,EVENT
+Finish the report by Monday.,EVENT
+Let's discuss about backend Sunday.,EVENT
+This should have been done by Sunday.,NO_EVENT
+I was busy this Friday.,NO_EVENT
+This should have been done by this Friday.,NO_EVENT
+Earlier we met Tuesday.,NO_EVENT
+Let's discuss about API design Tuesday.,EVENT
+This should have been done by this Friday.,NO_EVENT
+Earlier we met tomorrow.,NO_EVENT
+Finish the report by Tuesday.,EVENT
+This should have been done by next week.,NO_EVENT
+Can this be completed by Sunday?,NO_EVENT
+Finish the report by Monday.,EVENT
+Schedule a call with John on this Friday.,EVENT
+Let's connect tomorrow morning.,EVENT
+Let's connect at 9AM.,EVENT
+We need to meet today evening.,EVENT
+Let's sync up Monday.,EVENT
+Let's discuss about frontend Sunday.,EVENT
+This should have been done by Sunday.,NO_EVENT
+"You might complete it by Tuesday, but I'm unsure.",NO_EVENT
+Please complete this by this Friday.,EVENT
+Finish the report by Tuesday.,EVENT
+Schedule a call with John on Tuesday.,EVENT
+Finish the report by tomorrow.,EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+You could have done this by Sunday.,NO_EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+Can this be completed by Sunday?,NO_EVENT
+Ping me Monday.,EVENT
+Finish the report by next week.,EVENT
+Remind me to send the document this Friday.,EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+Finish the report by next week.,EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+Can this be completed by Monday?,NO_EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+We could have connected at 8PM.,NO_EVENT
+Earlier we met tomorrow.,NO_EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+Can this be completed by Sunday?,NO_EVENT
+We need to meet today evening.,EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+Let's sync up tomorrow.,EVENT
+"You might complete it by Tuesday, but I'm unsure.",NO_EVENT
+Remind me to review the code tomorrow.,EVENT
+You could have done this by next week.,NO_EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+Earlier we met tomorrow.,NO_EVENT
+You could have done this by Sunday.,NO_EVENT
+Remind me to call John next week.,EVENT
+Let's discuss about UI flow next week.,EVENT
+Ping me Monday.,EVENT
+Let's sync up next week.,EVENT
+I was busy Tuesday.,NO_EVENT
+Ping me Monday.,EVENT
+Earlier we met Sunday.,NO_EVENT
+I was busy this Friday.,NO_EVENT
+Finish the report by Sunday.,EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+Earlier we met Monday.,NO_EVENT
+Finish the report by this Friday.,EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+Let's connect tomorrow morning.,EVENT
+I was busy this Friday.,NO_EVENT
+We talked Monday.,NO_EVENT
+Let's connect tomorrow morning.,EVENT
+"You might complete it by Tuesday, but I'm unsure.",NO_EVENT
+You could have done this by Tuesday.,NO_EVENT
+Can this be completed by this Friday?,NO_EVENT
+Let's connect at 8PM.,EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+We could have connected at 8PM.,NO_EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+We need to meet at 9AM.,EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+We could have connected tonight.,NO_EVENT
+You could have done this by next week.,NO_EVENT
+Let's discuss about deployment this Friday.,EVENT
+"You might complete it by this Friday, but I'm unsure.",NO_EVENT
+We talked Tuesday.,NO_EVENT
+Remind me to call John Sunday.,EVENT
+"You might complete it by Tuesday, but I'm unsure.",NO_EVENT
+We need to meet tomorrow morning.,EVENT
+Remind me to send the document next week.,EVENT
+Was this supposed to finish by next week?,NO_EVENT
+Schedule a call with John on tomorrow.,EVENT
+Finish the report by next week.,EVENT
+I was busy tomorrow.,NO_EVENT
+Let's sync up next week.,EVENT
+Ping me this Friday.,EVENT
+Ping me tomorrow.,EVENT
+Schedule a call with John on this Friday.,EVENT
+Please complete this by Tuesday.,EVENT
+This should have been done by Monday.,NO_EVENT
+Earlier we met tomorrow.,NO_EVENT
+Remind me to send the document this Friday.,EVENT
+Let's discuss about API design tomorrow.,EVENT
+Please complete this by Monday.,EVENT
+We could have connected tonight.,NO_EVENT
+Please complete this by Monday.,EVENT
+Please complete this by tomorrow.,EVENT
+We could have connected tomorrow morning.,NO_EVENT
+We need to meet at 8PM.,EVENT
+We talked tomorrow.,NO_EVENT
+"You might complete it by next week, but I'm unsure.",NO_EVENT
+Join the meeting at today evening.,EVENT
+Please complete this by Monday.,EVENT
+We need to meet today evening.,EVENT
+Join the meeting at at 9AM.,EVENT
+We talked Tuesday.,NO_EVENT
+Please complete this by Sunday.,EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+Earlier we met Sunday.,NO_EVENT
+We could have connected today evening.,NO_EVENT
+Remind me to review the code next week.,EVENT
+Please complete this by next week.,EVENT
+This should have been done by Monday.,NO_EVENT
+Let's connect at 9AM.,EVENT
+Remind me to email Sarah next week.,EVENT
+Ping me tomorrow.,EVENT
+Let's discuss about API design Sunday.,EVENT
+Remind me to review the code Tuesday.,EVENT
+Remind me to send the document Monday.,EVENT
+Let's connect tomorrow morning.,EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+Join the meeting at tonight.,EVENT
+Let's sync up Monday.,EVENT
+You could have done this by this Friday.,NO_EVENT
+Can this be completed by this Friday?,NO_EVENT
+We could have connected at 8PM.,NO_EVENT
+We could have connected tomorrow morning.,NO_EVENT
+Schedule a call with David on Tuesday.,EVENT
+We talked Tuesday.,NO_EVENT
+We need to meet tomorrow morning.,EVENT
+I was busy next week.,NO_EVENT
+Join the meeting at tonight.,EVENT
+We need to meet at 8PM.,EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+We talked Sunday.,NO_EVENT
+Can this be completed by tomorrow?,NO_EVENT
+Join the meeting at at 8PM.,EVENT
+Please complete this by Sunday.,EVENT
+Can this be completed by next week?,NO_EVENT
+We could have connected tomorrow morning.,NO_EVENT
+Let's sync up Tuesday.,EVENT
+You could have done this by Tuesday.,NO_EVENT
+Can this be completed by tomorrow?,NO_EVENT
+We could have connected tomorrow morning.,NO_EVENT
+Ping me Monday.,EVENT
+Join the meeting at tomorrow morning.,EVENT
+Finish the report by tomorrow.,EVENT
+Can this be completed by Sunday?,NO_EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+Earlier we met Sunday.,NO_EVENT
+We need to meet today evening.,EVENT
+We need to meet tomorrow morning.,EVENT
+This should have been done by tomorrow.,NO_EVENT
+Please complete this by next week.,EVENT
+Let's sync up Monday.,EVENT
+This should have been done by next week.,NO_EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+Please complete this by Tuesday.,EVENT
+Please complete this by Monday.,EVENT
+This should have been done by Sunday.,NO_EVENT
+Let's sync up tomorrow.,EVENT
+We could have connected at 8PM.,NO_EVENT
+Finish the report by Tuesday.,EVENT
+Can this be completed by Sunday?,NO_EVENT
+Remind me to send the document Tuesday.,EVENT
+Can this be completed by next week?,NO_EVENT
+"If we had connected tonight, it would've helped.",NO_EVENT
+This should have been done by tomorrow.,NO_EVENT
+Schedule a call with Sarah on next week.,EVENT
+Was this supposed to finish by next week?,NO_EVENT
+Earlier we met Sunday.,NO_EVENT
+Earlier we met Tuesday.,NO_EVENT
+"You might complete it by next week, but I'm unsure.",NO_EVENT
+Earlier we met Monday.,NO_EVENT
+Ping me Sunday.,EVENT
+I was busy Sunday.,NO_EVENT
+Please complete this by Tuesday.,EVENT
+You could have done this by Monday.,NO_EVENT
+We talked Sunday.,NO_EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+We talked tomorrow.,NO_EVENT
+Please complete this by tomorrow.,EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+This should have been done by Sunday.,NO_EVENT
+Let's sync up Tuesday.,EVENT
+Earlier we met this Friday.,NO_EVENT
+You could have done this by next week.,NO_EVENT
+Earlier we met next week.,NO_EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+Was this supposed to finish by tomorrow?,NO_EVENT
+I was busy Tuesday.,NO_EVENT
+Please complete this by tomorrow.,EVENT
+Join the meeting at at 8PM.,EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+We need to meet tomorrow morning.,EVENT
+I was busy Monday.,NO_EVENT
+We talked Tuesday.,NO_EVENT
+Let's sync up next week.,EVENT
+Was this supposed to finish by tomorrow?,NO_EVENT
+"If we had connected at 9AM, it would've helped.",NO_EVENT
+We could have connected at 8PM.,NO_EVENT
+Join the meeting at tonight.,EVENT
+Join the meeting at tomorrow morning.,EVENT
+Remind me to review the code next week.,EVENT
+Finish the report by Sunday.,EVENT
+Please complete this by this Friday.,EVENT
+We talked Sunday.,NO_EVENT
+Can this be completed by Monday?,NO_EVENT
+We need to meet tonight.,EVENT
+"If we had connected tonight, it would've helped.",NO_EVENT
+Let's sync up tomorrow.,EVENT
+Finish the report by tomorrow.,EVENT
+Can this be completed by next week?,NO_EVENT
+Earlier we met tomorrow.,NO_EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+Can this be completed by Tuesday?,NO_EVENT
+Can this be completed by Monday?,NO_EVENT
+Was this supposed to finish by tomorrow?,NO_EVENT
+This should have been done by tomorrow.,NO_EVENT
+Earlier we met next week.,NO_EVENT
+Earlier we met tomorrow.,NO_EVENT
+Let's connect tonight.,EVENT
+We talked tomorrow.,NO_EVENT
+Schedule a call with David on Tuesday.,EVENT
+We could have connected tonight.,NO_EVENT
+I was busy Tuesday.,NO_EVENT
+"You might complete it by Tuesday, but I'm unsure.",NO_EVENT
+Let's sync up Tuesday.,EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+This should have been done by Tuesday.,NO_EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+Let's discuss about frontend Sunday.,EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+Join the meeting at tomorrow morning.,EVENT
+Was this supposed to finish by tomorrow?,NO_EVENT
+Remind me to review the code Monday.,EVENT
+"If we had connected tonight, it would've helped.",NO_EVENT
+We need to meet at 9AM.,EVENT
+Earlier we met tomorrow.,NO_EVENT
+You could have done this by next week.,NO_EVENT
+We need to meet at 8PM.,EVENT
+Earlier we met Sunday.,NO_EVENT
+"You might complete it by next week, but I'm unsure.",NO_EVENT
+We could have connected today evening.,NO_EVENT
+Join the meeting at today evening.,EVENT
+Earlier we met this Friday.,NO_EVENT
+This should have been done by Monday.,NO_EVENT
+Remind me to send the document next week.,EVENT
+Let's sync up next week.,EVENT
+We could have connected at 8PM.,NO_EVENT
+Let's connect at 8PM.,EVENT
+Earlier we met Sunday.,NO_EVENT
+Can this be completed by Sunday?,NO_EVENT
+I was busy Tuesday.,NO_EVENT
+Was this supposed to finish by Tuesday?,NO_EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+Please complete this by Sunday.,EVENT
+"You might complete it by this Friday, but I'm unsure.",NO_EVENT
+Remind me to call John tomorrow.,EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+Schedule a call with Priya on Tuesday.,EVENT
+Finish the report by Tuesday.,EVENT
+Earlier we met Monday.,NO_EVENT
+Ping me Sunday.,EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+Earlier we met this Friday.,NO_EVENT
+We need to meet tomorrow morning.,EVENT
+Let's sync up this Friday.,EVENT
+Earlier we met Tuesday.,NO_EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+Join the meeting at today evening.,EVENT
+Earlier we met Tuesday.,NO_EVENT
+Schedule a call with Priya on this Friday.,EVENT
+Let's connect at 8PM.,EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+We talked tomorrow.,NO_EVENT
+You could have done this by this Friday.,NO_EVENT
+We could have connected today evening.,NO_EVENT
+Can this be completed by Sunday?,NO_EVENT
+We talked this Friday.,NO_EVENT
+Ping me Monday.,EVENT
+I was busy this Friday.,NO_EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+We talked tomorrow.,NO_EVENT
+Finish the report by Sunday.,EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+We need to meet tomorrow morning.,EVENT
+"You might complete it by Tuesday, but I'm unsure.",NO_EVENT
+Earlier we met Sunday.,NO_EVENT
+Please complete this by Tuesday.,EVENT
+We talked Sunday.,NO_EVENT
+We talked Monday.,NO_EVENT
+Ping me Tuesday.,EVENT
+Schedule a call with Priya on Monday.,EVENT
+We could have connected at 8PM.,NO_EVENT
+Remind me to review the code tomorrow.,EVENT
+We need to meet at 9AM.,EVENT
+"If we had connected tonight, it would've helped.",NO_EVENT
+You could have done this by this Friday.,NO_EVENT
+Let's discuss about API design tomorrow.,EVENT
+Finish the report by Monday.,EVENT
+We talked tomorrow.,NO_EVENT
+Let's sync up Monday.,EVENT
+Join the meeting at tomorrow morning.,EVENT
+Let's connect at 9AM.,EVENT
+Let's discuss about backend next week.,EVENT
+We talked Monday.,NO_EVENT
+This should have been done by Sunday.,NO_EVENT
+Can this be completed by Monday?,NO_EVENT
+You could have done this by tomorrow.,NO_EVENT
+This should have been done by Tuesday.,NO_EVENT
+I was busy Sunday.,NO_EVENT
+Let's connect at 8PM.,EVENT
+We could have connected tonight.,NO_EVENT
+We could have connected tomorrow morning.,NO_EVENT
+I was busy Tuesday.,NO_EVENT
+We could have connected at 9AM.,NO_EVENT
+Remind me to email Sarah this Friday.,EVENT
+Let's discuss about API design this Friday.,EVENT
+Remind me to email Sarah tomorrow.,EVENT
+Earlier we met Tuesday.,NO_EVENT
+Ping me Sunday.,EVENT
+Join the meeting at tomorrow morning.,EVENT
+We could have connected tomorrow morning.,NO_EVENT
+You could have done this by tomorrow.,NO_EVENT
+Let's sync up next week.,EVENT
+"If we had connected tonight, it would've helped.",NO_EVENT
+Let's connect at 8PM.,EVENT
+Can this be completed by Tuesday?,NO_EVENT
+Join the meeting at today evening.,EVENT
+This should have been done by next week.,NO_EVENT
+We could have connected at 8PM.,NO_EVENT
+"You might complete it by next week, but I'm unsure.",NO_EVENT
+Finish the report by this Friday.,EVENT
+We talked Monday.,NO_EVENT
+You could have done this by Sunday.,NO_EVENT
+We talked Monday.,NO_EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+This should have been done by Sunday.,NO_EVENT
+Ping me this Friday.,EVENT
+Finish the report by Monday.,EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+Let's sync up this Friday.,EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+This should have been done by this Friday.,NO_EVENT
+We talked tomorrow.,NO_EVENT
+We could have connected tonight.,NO_EVENT
+Remind me to call John tomorrow.,EVENT
+Finish the report by Tuesday.,EVENT
+Let's discuss about frontend Monday.,EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+This should have been done by Tuesday.,NO_EVENT
+Ping me Tuesday.,EVENT
+"You might complete it by this Friday, but I'm unsure.",NO_EVENT
+Join the meeting at tonight.,EVENT
+This should have been done by Sunday.,NO_EVENT
+Please complete this by this Friday.,EVENT
+Can this be completed by Monday?,NO_EVENT
+Remind me to email Sarah Monday.,EVENT
+Join the meeting at today evening.,EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+"You might complete it by this Friday, but I'm unsure.",NO_EVENT
+We could have connected tonight.,NO_EVENT
+Let's discuss about API design Sunday.,EVENT
+Let's sync up Monday.,EVENT
+Please complete this by next week.,EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+Earlier we met Sunday.,NO_EVENT
+Join the meeting at at 8PM.,EVENT
+We need to meet at 9AM.,EVENT
+We talked Sunday.,NO_EVENT
+Let's sync up Sunday.,EVENT
+You could have done this by Tuesday.,NO_EVENT
+Remind me to email Sarah next week.,EVENT
+Please complete this by this Friday.,EVENT
+Join the meeting at today evening.,EVENT
+Please complete this by Tuesday.,EVENT
+You could have done this by next week.,NO_EVENT
+Was this supposed to finish by tomorrow?,NO_EVENT
+I was busy Monday.,NO_EVENT
+We talked Sunday.,NO_EVENT
+This should have been done by Monday.,NO_EVENT
+You could have done this by Monday.,NO_EVENT
+We could have connected tomorrow morning.,NO_EVENT
+Earlier we met Monday.,NO_EVENT
+Let's connect tonight.,EVENT
+This should have been done by next week.,NO_EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+Finish the report by tomorrow.,EVENT
+This should have been done by Sunday.,NO_EVENT
+Finish the report by next week.,EVENT
+Let's sync up Sunday.,EVENT
+Let's discuss about backend Tuesday.,EVENT
+We talked Sunday.,NO_EVENT
+Was this supposed to finish by Tuesday?,NO_EVENT
+I was busy Sunday.,NO_EVENT
+Please complete this by tomorrow.,EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+Let's connect at 8PM.,EVENT
+Let's connect tonight.,EVENT
+We need to meet tomorrow morning.,EVENT
+You could have done this by next week.,NO_EVENT
+I was busy Tuesday.,NO_EVENT
+We need to meet today evening.,EVENT
+Finish the report by this Friday.,EVENT
+Earlier we met Tuesday.,NO_EVENT
+I was busy Tuesday.,NO_EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+Let's discuss about deployment next week.,EVENT
+You could have done this by tomorrow.,NO_EVENT
+We need to meet today evening.,EVENT
+Ping me Sunday.,EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+Remind me to call John Tuesday.,EVENT
+"You might complete it by Monday, but I'm unsure.",NO_EVENT
+Finish the report by this Friday.,EVENT
+We could have connected today evening.,NO_EVENT
+"You might complete it by next week, but I'm unsure.",NO_EVENT
+Finish the report by tomorrow.,EVENT
+Finish the report by tomorrow.,EVENT
+Ping me Monday.,EVENT
+We could have connected at 8PM.,NO_EVENT
+"You might complete it by Monday, but I'm unsure.",NO_EVENT
+I was busy tomorrow.,NO_EVENT
+This should have been done by Monday.,NO_EVENT
+Let's connect today evening.,EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+Ping me Tuesday.,EVENT
+"You might complete it by next week, but I'm unsure.",NO_EVENT
+Please complete this by Sunday.,EVENT
+Let's discuss about frontend tomorrow.,EVENT
+"You might complete it by next week, but I'm unsure.",NO_EVENT
+Remind me to send the document Sunday.,EVENT
+Please complete this by Sunday.,EVENT
+Earlier we met this Friday.,NO_EVENT
+You could have done this by next week.,NO_EVENT
+Let's discuss about deployment tomorrow.,EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+Join the meeting at today evening.,EVENT
+You could have done this by Sunday.,NO_EVENT
+Please complete this by tomorrow.,EVENT
+Earlier we met next week.,NO_EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+"You might complete it by next week, but I'm unsure.",NO_EVENT
+Remind me to call John this Friday.,EVENT
+Finish the report by tomorrow.,EVENT
+This should have been done by this Friday.,NO_EVENT
+You could have done this by tomorrow.,NO_EVENT
+Join the meeting at tonight.,EVENT
+You could have done this by next week.,NO_EVENT
+Join the meeting at at 9AM.,EVENT
+Can this be completed by this Friday?,NO_EVENT
+Please complete this by this Friday.,EVENT
+"You might complete it by this Friday, but I'm unsure.",NO_EVENT
+Can this be completed by Monday?,NO_EVENT
+Earlier we met next week.,NO_EVENT
+Join the meeting at at 8PM.,EVENT
+Ping me this Friday.,EVENT
+Earlier we met tomorrow.,NO_EVENT
+Let's connect at 9AM.,EVENT
+We talked tomorrow.,NO_EVENT
+This should have been done by tomorrow.,NO_EVENT
+Let's discuss about backend Tuesday.,EVENT
+We need to meet today evening.,EVENT
+Finish the report by tomorrow.,EVENT
+We need to meet at 8PM.,EVENT
+You could have done this by Sunday.,NO_EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+Schedule a call with John on tomorrow.,EVENT
+Was this supposed to finish by tomorrow?,NO_EVENT
+Ping me this Friday.,EVENT
+We could have connected today evening.,NO_EVENT
+Ping me tomorrow.,EVENT
+Earlier we met Monday.,NO_EVENT
+Let's discuss about UI flow tomorrow.,EVENT
+Finish the report by tomorrow.,EVENT
+Let's discuss about frontend Monday.,EVENT
+Ping me Sunday.,EVENT
+Schedule a call with David on next week.,EVENT
+Finish the report by Monday.,EVENT
+I was busy next week.,NO_EVENT
+"You might complete it by this Friday, but I'm unsure.",NO_EVENT
+Can this be completed by Sunday?,NO_EVENT
+Can this be completed by tomorrow?,NO_EVENT
+Finish the report by this Friday.,EVENT
+Let's sync up Sunday.,EVENT
+Can this be completed by next week?,NO_EVENT
+We could have connected at 8PM.,NO_EVENT
+Let's connect tonight.,EVENT
+Remind me to review the code Monday.,EVENT
+"You might complete it by Tuesday, but I'm unsure.",NO_EVENT
+Ping me Sunday.,EVENT
+Let's connect today evening.,EVENT
+Schedule a call with Sarah on this Friday.,EVENT
+Earlier we met Tuesday.,NO_EVENT
+We could have connected tonight.,NO_EVENT
+Let's discuss about frontend Tuesday.,EVENT
+Let's connect tonight.,EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+Was this supposed to finish by next week?,NO_EVENT
+Was this supposed to finish by tomorrow?,NO_EVENT
+Let's discuss about UI flow this Friday.,EVENT
+We talked this Friday.,NO_EVENT
+Finish the report by tomorrow.,EVENT
+Remind me to review the code tomorrow.,EVENT
+This should have been done by next week.,NO_EVENT
+We need to meet at 9AM.,EVENT
+Was this supposed to finish by next week?,NO_EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+Finish the report by Sunday.,EVENT
+We could have connected today evening.,NO_EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+Finish the report by Sunday.,EVENT
+Please complete this by Sunday.,EVENT
+Join the meeting at tonight.,EVENT
+I was busy Monday.,NO_EVENT
+We need to meet tonight.,EVENT
+Schedule a call with Priya on tomorrow.,EVENT
+I was busy Tuesday.,NO_EVENT
+Finish the report by Tuesday.,EVENT
+We talked this Friday.,NO_EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+Ping me Monday.,EVENT
+Remind me to call John Tuesday.,EVENT
+Join the meeting at at 9AM.,EVENT
+Can this be completed by next week?,NO_EVENT
+Let's connect today evening.,EVENT
+Schedule a call with David on this Friday.,EVENT
+We talked Monday.,NO_EVENT
+Can this be completed by tomorrow?,NO_EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+Let's sync up this Friday.,EVENT
+"You might complete it by Tuesday, but I'm unsure.",NO_EVENT
+You could have done this by Monday.,NO_EVENT
+Can this be completed by Monday?,NO_EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+Finish the report by Monday.,EVENT
+This should have been done by this Friday.,NO_EVENT
+Can this be completed by Sunday?,NO_EVENT
+Let's discuss about frontend next week.,EVENT
+This should have been done by next week.,NO_EVENT
+Let's connect tomorrow morning.,EVENT
+We talked Sunday.,NO_EVENT
+We could have connected today evening.,NO_EVENT
+Join the meeting at at 8PM.,EVENT
+Let's discuss about API design next week.,EVENT
+Was this supposed to finish by next week?,NO_EVENT
+You could have done this by next week.,NO_EVENT
+We talked Sunday.,NO_EVENT
+"You might complete it by this Friday, but I'm unsure.",NO_EVENT
+Earlier we met next week.,NO_EVENT
+Let's connect tomorrow morning.,EVENT
+I was busy Tuesday.,NO_EVENT
+"If we had connected at 9AM, it would've helped.",NO_EVENT
+"You might complete it by Monday, but I'm unsure.",NO_EVENT
+I was busy Monday.,NO_EVENT
+"You might complete it by this Friday, but I'm unsure.",NO_EVENT
+Let's connect tonight.,EVENT
+You could have done this by Sunday.,NO_EVENT
+Let's connect at 8PM.,EVENT
+Join the meeting at at 9AM.,EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+Can this be completed by tomorrow?,NO_EVENT
+Let's discuss about API design Monday.,EVENT
+Can this be completed by tomorrow?,NO_EVENT
+"You might complete it by Monday, but I'm unsure.",NO_EVENT
+We talked Monday.,NO_EVENT
+Let's discuss about backend tomorrow.,EVENT
+Join the meeting at tomorrow morning.,EVENT
+You could have done this by Monday.,NO_EVENT
+Let's sync up Tuesday.,EVENT
+Let's discuss about backend Sunday.,EVENT
+This should have been done by Tuesday.,NO_EVENT
+You could have done this by this Friday.,NO_EVENT
+You could have done this by next week.,NO_EVENT
+Remind me to send the document Sunday.,EVENT
+Remind me to email Sarah tomorrow.,EVENT
+Please complete this by this Friday.,EVENT
+Schedule a call with Sarah on Tuesday.,EVENT
+You could have done this by tomorrow.,NO_EVENT
+Let's connect tonight.,EVENT
+Earlier we met Tuesday.,NO_EVENT
+"If we had connected at 9AM, it would've helped.",NO_EVENT
+Remind me to call John this Friday.,EVENT
+Remind me to send the document this Friday.,EVENT
+Can this be completed by next week?,NO_EVENT
+Schedule a call with John on next week.,EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+Please complete this by tomorrow.,EVENT
+Let's sync up tomorrow.,EVENT
+Join the meeting at at 8PM.,EVENT
+Please complete this by this Friday.,EVENT
+Join the meeting at at 8PM.,EVENT
+This should have been done by this Friday.,NO_EVENT
+I was busy Tuesday.,NO_EVENT
+We could have connected at 8PM.,NO_EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+Finish the report by next week.,EVENT
+Let's sync up tomorrow.,EVENT
+Finish the report by Monday.,EVENT
+Let's discuss about UI flow Tuesday.,EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+We could have connected at 8PM.,NO_EVENT
+Can this be completed by tomorrow?,NO_EVENT
+Remind me to review the code Tuesday.,EVENT
+Let's discuss about backend Sunday.,EVENT
+Finish the report by Tuesday.,EVENT
+We need to meet at 9AM.,EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+We could have connected tonight.,NO_EVENT
+Let's discuss about frontend tomorrow.,EVENT
+Join the meeting at today evening.,EVENT
+We could have connected tonight.,NO_EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+Earlier we met next week.,NO_EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+Was this supposed to finish by next week?,NO_EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+You could have done this by Tuesday.,NO_EVENT
+I was busy tomorrow.,NO_EVENT
+Can this be completed by next week?,NO_EVENT
+We need to meet tonight.,EVENT
+Join the meeting at tonight.,EVENT
+I was busy Sunday.,NO_EVENT
+This should have been done by this Friday.,NO_EVENT
+Earlier we met tomorrow.,NO_EVENT
+Can this be completed by Tuesday?,NO_EVENT
+Ping me this Friday.,EVENT
+Earlier we met Monday.,NO_EVENT
+We need to meet tonight.,EVENT
+Let's sync up next week.,EVENT
+We need to meet tonight.,EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+Can this be completed by Sunday?,NO_EVENT
+Was this supposed to finish by next week?,NO_EVENT
+I was busy this Friday.,NO_EVENT
+You could have done this by next week.,NO_EVENT
+Let's sync up this Friday.,EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+You could have done this by Sunday.,NO_EVENT
+Let's sync up this Friday.,EVENT
+I was busy Sunday.,NO_EVENT
+Ping me next week.,EVENT
+"You might complete it by next week, but I'm unsure.",NO_EVENT
+Let's connect at 8PM.,EVENT
+You could have done this by Sunday.,NO_EVENT
+Let's discuss about frontend Tuesday.,EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+We could have connected today evening.,NO_EVENT
+We talked this Friday.,NO_EVENT
+I was busy Monday.,NO_EVENT
+Ping me Monday.,EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+Finish the report by tomorrow.,EVENT
+Remind me to review the code this Friday.,EVENT
+"You might complete it by this Friday, but I'm unsure.",NO_EVENT
+Join the meeting at tomorrow morning.,EVENT
+Earlier we met next week.,NO_EVENT
+Ping me this Friday.,EVENT
+Join the meeting at today evening.,EVENT
+Join the meeting at at 9AM.,EVENT
+Schedule a call with John on next week.,EVENT
+You could have done this by Monday.,NO_EVENT
+Remind me to review the code Tuesday.,EVENT
+"If we had connected tonight, it would've helped.",NO_EVENT
+Let's sync up Tuesday.,EVENT
+Let's sync up this Friday.,EVENT
+Join the meeting at at 8PM.,EVENT
+I was busy tomorrow.,NO_EVENT
+Schedule a call with David on tomorrow.,EVENT
+Join the meeting at at 8PM.,EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+This should have been done by Monday.,NO_EVENT
+Let's sync up next week.,EVENT
+Please complete this by Sunday.,EVENT
+Finish the report by this Friday.,EVENT
+"You might complete it by next week, but I'm unsure.",NO_EVENT
+Can this be completed by tomorrow?,NO_EVENT
+We talked Sunday.,NO_EVENT
+Ping me next week.,EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+Ping me this Friday.,EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+Let's discuss about deployment next week.,EVENT
+Let's discuss about frontend tomorrow.,EVENT
+You could have done this by Monday.,NO_EVENT
+We talked next week.,NO_EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+We talked Sunday.,NO_EVENT
+Let's discuss about backend this Friday.,EVENT
+This should have been done by Sunday.,NO_EVENT
+We need to meet tomorrow morning.,EVENT
+You could have done this by tomorrow.,NO_EVENT
+Schedule a call with Sarah on next week.,EVENT
+Remind me to call John Monday.,EVENT
+We talked Tuesday.,NO_EVENT
+Earlier we met Sunday.,NO_EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+Remind me to call John tomorrow.,EVENT
+Let's discuss about deployment Monday.,EVENT
+Schedule a call with Priya on next week.,EVENT
+Ping me next week.,EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+Finish the report by tomorrow.,EVENT
+Ping me this Friday.,EVENT
+Join the meeting at at 9AM.,EVENT
+Join the meeting at at 9AM.,EVENT
+Let's sync up Monday.,EVENT
+Earlier we met Tuesday.,NO_EVENT
+We need to meet today evening.,EVENT
+Schedule a call with David on this Friday.,EVENT
+Finish the report by tomorrow.,EVENT
+Remind me to email Sarah this Friday.,EVENT
+I was busy next week.,NO_EVENT
+Remind me to email Sarah this Friday.,EVENT
+Let's sync up Monday.,EVENT
+Ping me Tuesday.,EVENT
+Please complete this by Monday.,EVENT
+Earlier we met Tuesday.,NO_EVENT
+You could have done this by Tuesday.,NO_EVENT
+Was this supposed to finish by next week?,NO_EVENT
+Remind me to email Sarah Monday.,EVENT
+We need to meet today evening.,EVENT
+Please complete this by next week.,EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+Ping me Monday.,EVENT
+We talked Monday.,NO_EVENT
+We could have connected at 9AM.,NO_EVENT
+We could have connected at 8PM.,NO_EVENT
+Schedule a call with Sarah on next week.,EVENT
+I was busy next week.,NO_EVENT
+Join the meeting at at 8PM.,EVENT
+Can this be completed by Tuesday?,NO_EVENT
+This should have been done by tomorrow.,NO_EVENT
+Schedule a call with David on Tuesday.,EVENT
+Finish the report by Monday.,EVENT
+Earlier we met tomorrow.,NO_EVENT
+Schedule a call with Sarah on this Friday.,EVENT
+Schedule a call with David on tomorrow.,EVENT
+Please complete this by Tuesday.,EVENT
+Let's discuss about API design next week.,EVENT
+We could have connected at 8PM.,NO_EVENT
+Remind me to call John this Friday.,EVENT
+Remind me to call John next week.,EVENT
+Remind me to call John Monday.,EVENT
+I was busy this Friday.,NO_EVENT
+Was this supposed to finish by Tuesday?,NO_EVENT
+This should have been done by Sunday.,NO_EVENT
+We need to meet tomorrow morning.,EVENT
+I was busy Monday.,NO_EVENT
+We could have connected at 9AM.,NO_EVENT
+We need to meet tonight.,EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+Can this be completed by Sunday?,NO_EVENT
+Can this be completed by Monday?,NO_EVENT
+Please complete this by Tuesday.,EVENT
+We talked Monday.,NO_EVENT
+Remind me to call John Tuesday.,EVENT
+Let's sync up Monday.,EVENT
+Let's sync up next week.,EVENT
+Was this supposed to finish by Tuesday?,NO_EVENT
+This should have been done by next week.,NO_EVENT
+Schedule a call with John on Monday.,EVENT
+Can this be completed by Tuesday?,NO_EVENT
+"You might complete it by Tuesday, but I'm unsure.",NO_EVENT
+This should have been done by this Friday.,NO_EVENT
+Join the meeting at tonight.,EVENT
+We need to meet at 9AM.,EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+Can this be completed by Sunday?,NO_EVENT
+You could have done this by Monday.,NO_EVENT
+Join the meeting at today evening.,EVENT
+I was busy tomorrow.,NO_EVENT
+Finish the report by tomorrow.,EVENT
+We talked Monday.,NO_EVENT
+Let's sync up next week.,EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+Schedule a call with David on Tuesday.,EVENT
+Join the meeting at at 9AM.,EVENT
+Finish the report by this Friday.,EVENT
+This should have been done by Sunday.,NO_EVENT
+You could have done this by tomorrow.,NO_EVENT
+Remind me to email Sarah next week.,EVENT
+This should have been done by Sunday.,NO_EVENT
+We could have connected at 9AM.,NO_EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+"You might complete it by Monday, but I'm unsure.",NO_EVENT
+Finish the report by Monday.,EVENT
+Can this be completed by next week?,NO_EVENT
+We could have connected tonight.,NO_EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+We could have connected tonight.,NO_EVENT
+We need to meet today evening.,EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+We need to meet tonight.,EVENT
+Finish the report by this Friday.,EVENT
+Earlier we met next week.,NO_EVENT
+"You might complete it by next week, but I'm unsure.",NO_EVENT
+Schedule a call with Priya on next week.,EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+Let's discuss about backend tomorrow.,EVENT
+Ping me next week.,EVENT
+Let's discuss about UI flow this Friday.,EVENT
+"You might complete it by next week, but I'm unsure.",NO_EVENT
+Can this be completed by next week?,NO_EVENT
+Remind me to call John Sunday.,EVENT
+Please complete this by Monday.,EVENT
+Remind me to call John tomorrow.,EVENT
+Let's sync up next week.,EVENT
+Ping me tomorrow.,EVENT
+Earlier we met tomorrow.,NO_EVENT
+We talked Sunday.,NO_EVENT
+Was this supposed to finish by next week?,NO_EVENT
+Please complete this by this Friday.,EVENT
+Join the meeting at today evening.,EVENT
+We need to meet tomorrow morning.,EVENT
+Earlier we met Tuesday.,NO_EVENT
+Ping me this Friday.,EVENT
+Join the meeting at at 8PM.,EVENT
+Please complete this by this Friday.,EVENT
+"You might complete it by Tuesday, but I'm unsure.",NO_EVENT
+We need to meet tonight.,EVENT
+Remind me to review the code Sunday.,EVENT
+Please complete this by tomorrow.,EVENT
+We talked next week.,NO_EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+Ping me Monday.,EVENT
+Schedule a call with Priya on Sunday.,EVENT
+Let's sync up Sunday.,EVENT
+Can this be completed by this Friday?,NO_EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+You could have done this by Monday.,NO_EVENT
+"If we had connected tonight, it would've helped.",NO_EVENT
+Please complete this by Sunday.,EVENT
+Let's connect today evening.,EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+This should have been done by next week.,NO_EVENT
+"You might complete it by Monday, but I'm unsure.",NO_EVENT
+We need to meet at 9AM.,EVENT
+Schedule a call with John on Monday.,EVENT
+I was busy Tuesday.,NO_EVENT
+Can this be completed by tomorrow?,NO_EVENT
+We need to meet tomorrow morning.,EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+Ping me Tuesday.,EVENT
+"You might complete it by this Friday, but I'm unsure.",NO_EVENT
+Schedule a call with Priya on Tuesday.,EVENT
+This should have been done by tomorrow.,NO_EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+Was this supposed to finish by next week?,NO_EVENT
+Finish the report by this Friday.,EVENT
+You could have done this by Monday.,NO_EVENT
+Ping me this Friday.,EVENT
+Let's sync up Tuesday.,EVENT
+Can this be completed by Tuesday?,NO_EVENT
+Let's sync up next week.,EVENT
+Please complete this by this Friday.,EVENT
+Join the meeting at at 9AM.,EVENT
+I was busy next week.,NO_EVENT
+This should have been done by next week.,NO_EVENT
+We could have connected at 9AM.,NO_EVENT
+Let's discuss about frontend Sunday.,EVENT
+I was busy next week.,NO_EVENT
+Finish the report by next week.,EVENT
+Can this be completed by this Friday?,NO_EVENT
+"If we had connected tonight, it would've helped.",NO_EVENT
+Can this be completed by this Friday?,NO_EVENT
+We need to meet tonight.,EVENT
+We need to meet tomorrow morning.,EVENT
+I was busy Monday.,NO_EVENT
+Earlier we met Sunday.,NO_EVENT
+Join the meeting at today evening.,EVENT
+Schedule a call with David on next week.,EVENT
+Ping me Monday.,EVENT
+We could have connected today evening.,NO_EVENT
+Finish the report by tomorrow.,EVENT
+We need to meet tonight.,EVENT
+Let's sync up Monday.,EVENT
+I was busy Monday.,NO_EVENT
+Schedule a call with Sarah on Tuesday.,EVENT
+We talked Sunday.,NO_EVENT
+We could have connected tomorrow morning.,NO_EVENT
+Schedule a call with David on tomorrow.,EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+I was busy Tuesday.,NO_EVENT
+Let's sync up Tuesday.,EVENT
+Remind me to send the document Monday.,EVENT
+We talked Monday.,NO_EVENT
+Let's discuss about UI flow Monday.,EVENT
+Let's sync up next week.,EVENT
+Can this be completed by Sunday?,NO_EVENT
+You could have done this by next week.,NO_EVENT
+"If we had connected at 9AM, it would've helped.",NO_EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+Can this be completed by this Friday?,NO_EVENT
+We need to meet at 9AM.,EVENT
+We could have connected tonight.,NO_EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+Remind me to call John Tuesday.,EVENT
+Ping me Monday.,EVENT
+Remind me to email Sarah tomorrow.,EVENT
+Ping me tomorrow.,EVENT
+Can this be completed by Tuesday?,NO_EVENT
+I was busy this Friday.,NO_EVENT
+"If we had connected at 9AM, it would've helped.",NO_EVENT
+Ping me Sunday.,EVENT
+Was this supposed to finish by tomorrow?,NO_EVENT
+Schedule a call with John on this Friday.,EVENT
+We could have connected at 8PM.,NO_EVENT
+Let's sync up Tuesday.,EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+Let's connect at 9AM.,EVENT
+We talked this Friday.,NO_EVENT
+Can this be completed by Monday?,NO_EVENT
+You could have done this by next week.,NO_EVENT
+I was busy Monday.,NO_EVENT
+Schedule a call with Priya on next week.,EVENT
+Schedule a call with John on this Friday.,EVENT
+We need to meet tonight.,EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+Remind me to call John this Friday.,EVENT
+Join the meeting at tomorrow morning.,EVENT
+Finish the report by Tuesday.,EVENT
+Let's connect today evening.,EVENT
+You could have done this by Sunday.,NO_EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+We need to meet tonight.,EVENT
+"You might complete it by this Friday, but I'm unsure.",NO_EVENT
+Join the meeting at at 9AM.,EVENT
+Ping me this Friday.,EVENT
+Ping me Sunday.,EVENT
+Remind me to call John Tuesday.,EVENT
+"If we had connected tonight, it would've helped.",NO_EVENT
+Let's sync up Monday.,EVENT
+We talked Monday.,NO_EVENT
+Let's discuss about API design tomorrow.,EVENT
+Please complete this by Sunday.,EVENT
+Can this be completed by Tuesday?,NO_EVENT
+We need to meet tonight.,EVENT
+Schedule a call with John on Monday.,EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+Join the meeting at at 9AM.,EVENT
+Let's connect tonight.,EVENT
+We talked next week.,NO_EVENT
+Please complete this by next week.,EVENT
+I was busy Sunday.,NO_EVENT
+Ping me this Friday.,EVENT
+Please complete this by next week.,EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+Please complete this by this Friday.,EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+"You might complete it by this Friday, but I'm unsure.",NO_EVENT
+Join the meeting at at 9AM.,EVENT
+Let's connect tonight.,EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+We talked Tuesday.,NO_EVENT
+We need to meet today evening.,EVENT
+Can this be completed by next week?,NO_EVENT
+Please complete this by this Friday.,EVENT
+Ping me Sunday.,EVENT
+Remind me to review the code Tuesday.,EVENT
+We could have connected at 9AM.,NO_EVENT
+Ping me Tuesday.,EVENT
+"You might complete it by next week, but I'm unsure.",NO_EVENT
+Ping me Tuesday.,EVENT
+You could have done this by Sunday.,NO_EVENT
+We could have connected at 9AM.,NO_EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+Earlier we met tomorrow.,NO_EVENT
+Can this be completed by Sunday?,NO_EVENT
+Ping me this Friday.,EVENT
+We talked next week.,NO_EVENT
+We need to meet at 9AM.,EVENT
+Let's discuss about backend Monday.,EVENT
+Let's sync up next week.,EVENT
+You could have done this by this Friday.,NO_EVENT
+Let's sync up Tuesday.,EVENT
+Schedule a call with David on tomorrow.,EVENT
+Let's discuss about API design next week.,EVENT
+Remind me to call John Sunday.,EVENT
+Remind me to send the document Tuesday.,EVENT
+We talked tomorrow.,NO_EVENT
+Schedule a call with Priya on this Friday.,EVENT
+Remind me to send the document Sunday.,EVENT
+Let's discuss about backend next week.,EVENT
+You could have done this by Sunday.,NO_EVENT
+Let's discuss about UI flow this Friday.,EVENT
+We could have connected today evening.,NO_EVENT
+Ping me Tuesday.,EVENT
+Please complete this by Tuesday.,EVENT
+We talked this Friday.,NO_EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+We need to meet at 9AM.,EVENT
+Let's discuss about API design Sunday.,EVENT
+We talked next week.,NO_EVENT
+Was this supposed to finish by tomorrow?,NO_EVENT
+"If we had connected at 9AM, it would've helped.",NO_EVENT
+Please complete this by Monday.,EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+Let's sync up Sunday.,EVENT
+Let's connect at 9AM.,EVENT
+Let's connect today evening.,EVENT
+We need to meet at 9AM.,EVENT
+Earlier we met Monday.,NO_EVENT
+Ping me this Friday.,EVENT
+Schedule a call with John on next week.,EVENT
+This should have been done by Monday.,NO_EVENT
+"You might complete it by this Friday, but I'm unsure.",NO_EVENT
+We could have connected tomorrow morning.,NO_EVENT
+We need to meet tomorrow morning.,EVENT
+We could have connected tonight.,NO_EVENT
+This should have been done by this Friday.,NO_EVENT
+Finish the report by this Friday.,EVENT
+Earlier we met this Friday.,NO_EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+We need to meet tomorrow morning.,EVENT
+Can this be completed by next week?,NO_EVENT
+Please complete this by next week.,EVENT
+This should have been done by Sunday.,NO_EVENT
+We talked Monday.,NO_EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+Finish the report by Tuesday.,EVENT
+Can this be completed by this Friday?,NO_EVENT
+Join the meeting at at 9AM.,EVENT
+We need to meet tomorrow morning.,EVENT
+Let's discuss about frontend Tuesday.,EVENT
+This should have been done by tomorrow.,NO_EVENT
+You could have done this by tomorrow.,NO_EVENT
+Please complete this by tomorrow.,EVENT
+Finish the report by next week.,EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+Let's discuss about UI flow this Friday.,EVENT
+Ping me tomorrow.,EVENT
+Earlier we met Sunday.,NO_EVENT
+Earlier we met Tuesday.,NO_EVENT
+We need to meet at 8PM.,EVENT
+I was busy Tuesday.,NO_EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+"You might complete it by Tuesday, but I'm unsure.",NO_EVENT
+We need to meet at 8PM.,EVENT
+This should have been done by Monday.,NO_EVENT
+Let's sync up Tuesday.,EVENT
+We could have connected today evening.,NO_EVENT
+You could have done this by this Friday.,NO_EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+Ping me Sunday.,EVENT
+Let's sync up this Friday.,EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+This should have been done by Tuesday.,NO_EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+This should have been done by Sunday.,NO_EVENT
+Earlier we met this Friday.,NO_EVENT
+Finish the report by tomorrow.,EVENT
+Earlier we met tomorrow.,NO_EVENT
+Please complete this by this Friday.,EVENT
+Let's discuss about UI flow Sunday.,EVENT
+We need to meet tonight.,EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+"You might complete it by next week, but I'm unsure.",NO_EVENT
+I was busy this Friday.,NO_EVENT
+Let's discuss about frontend tomorrow.,EVENT
+I was busy Sunday.,NO_EVENT
+We need to meet at 9AM.,EVENT
+Ping me tomorrow.,EVENT
+Please complete this by Sunday.,EVENT
+Please complete this by next week.,EVENT
+You could have done this by Monday.,NO_EVENT
+Let's discuss about frontend Sunday.,EVENT
+This should have been done by Sunday.,NO_EVENT
+Earlier we met Sunday.,NO_EVENT
+Remind me to send the document Sunday.,EVENT
+Schedule a call with David on this Friday.,EVENT
+We could have connected today evening.,NO_EVENT
+Was this supposed to finish by Tuesday?,NO_EVENT
+You could have done this by tomorrow.,NO_EVENT
+Let's sync up tomorrow.,EVENT
+This should have been done by Tuesday.,NO_EVENT
+Let's discuss about frontend Tuesday.,EVENT
+Let's connect at 8PM.,EVENT
+We need to meet today evening.,EVENT
+You could have done this by next week.,NO_EVENT
+Schedule a call with David on tomorrow.,EVENT
+I was busy tomorrow.,NO_EVENT
+Ping me Sunday.,EVENT
+I was busy this Friday.,NO_EVENT
+I was busy next week.,NO_EVENT
+We could have connected at 9AM.,NO_EVENT
+Let's discuss about frontend tomorrow.,EVENT
+Let's sync up this Friday.,EVENT
+We talked Sunday.,NO_EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+Let's discuss about backend this Friday.,EVENT
+Let's sync up this Friday.,EVENT
+Let's connect today evening.,EVENT
+Schedule a call with Sarah on Monday.,EVENT
+I was busy next week.,NO_EVENT
+Join the meeting at tonight.,EVENT
+"You might complete it by this Friday, but I'm unsure.",NO_EVENT
+Please complete this by next week.,EVENT
+Earlier we met Sunday.,NO_EVENT
+Let's discuss about deployment next week.,EVENT
+Let's discuss about backend this Friday.,EVENT
+I was busy tomorrow.,NO_EVENT
+Please complete this by this Friday.,EVENT
+Let's sync up this Friday.,EVENT
+We need to meet at 9AM.,EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+Remind me to send the document tomorrow.,EVENT
+Earlier we met this Friday.,NO_EVENT
+Can this be completed by this Friday?,NO_EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+Let's connect at 9AM.,EVENT
+Let's sync up this Friday.,EVENT
+This should have been done by Sunday.,NO_EVENT
+Let's discuss about UI flow this Friday.,EVENT
+You could have done this by this Friday.,NO_EVENT
+I was busy tomorrow.,NO_EVENT
+We could have connected at 9AM.,NO_EVENT
+Schedule a call with Sarah on tomorrow.,EVENT
+Finish the report by Tuesday.,EVENT
+"If we had connected at 9AM, it would've helped.",NO_EVENT
+Was this supposed to finish by next week?,NO_EVENT
+Schedule a call with David on tomorrow.,EVENT
+Please complete this by Tuesday.,EVENT
+Let's connect today evening.,EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+Ping me Monday.,EVENT
+We need to meet at 9AM.,EVENT
+Schedule a call with Priya on Sunday.,EVENT
+We talked this Friday.,NO_EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+Schedule a call with David on Sunday.,EVENT
+"You might complete it by this Friday, but I'm unsure.",NO_EVENT
+Let's connect tomorrow morning.,EVENT
+Please complete this by Monday.,EVENT
+Remind me to email Sarah Tuesday.,EVENT
+I was busy Sunday.,NO_EVENT
+Let's sync up Sunday.,EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+We need to meet tonight.,EVENT
+Let's connect tomorrow morning.,EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+We need to meet at 9AM.,EVENT
+Ping me Monday.,EVENT
+Can this be completed by tomorrow?,NO_EVENT
+We could have connected today evening.,NO_EVENT
+Let's discuss about UI flow Sunday.,EVENT
+Schedule a call with David on next week.,EVENT
+Remind me to call John this Friday.,EVENT
+Schedule a call with Priya on Tuesday.,EVENT
+I was busy Monday.,NO_EVENT
+Schedule a call with Sarah on Sunday.,EVENT
+I was busy next week.,NO_EVENT
+Please complete this by next week.,EVENT
+This should have been done by next week.,NO_EVENT
+We need to meet today evening.,EVENT
+We need to meet today evening.,EVENT
+Please complete this by Tuesday.,EVENT
+Let's discuss about deployment tomorrow.,EVENT
+Finish the report by Monday.,EVENT
+Let's connect at 8PM.,EVENT
+Remind me to email Sarah Tuesday.,EVENT
+Let's connect at 9AM.,EVENT
+"You might complete it by next week, but I'm unsure.",NO_EVENT
+Schedule a call with John on this Friday.,EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+Earlier we met this Friday.,NO_EVENT
+Please complete this by Sunday.,EVENT
+This should have been done by Monday.,NO_EVENT
+You could have done this by Monday.,NO_EVENT
+You could have done this by next week.,NO_EVENT
+I was busy Sunday.,NO_EVENT
+Can this be completed by next week?,NO_EVENT
+Schedule a call with David on Tuesday.,EVENT
+Earlier we met Sunday.,NO_EVENT
+Schedule a call with Priya on tomorrow.,EVENT
+We need to meet at 8PM.,EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+You could have done this by Sunday.,NO_EVENT
+We could have connected tonight.,NO_EVENT
+Earlier we met this Friday.,NO_EVENT
+Ping me next week.,EVENT
+Can this be completed by this Friday?,NO_EVENT
+We talked Monday.,NO_EVENT
+Finish the report by Monday.,EVENT
+Can this be completed by next week?,NO_EVENT
+Let's discuss about UI flow tomorrow.,EVENT
+Let's discuss about backend tomorrow.,EVENT
+Let's discuss about frontend Sunday.,EVENT
+Let's connect tonight.,EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+I was busy Monday.,NO_EVENT
+Earlier we met Sunday.,NO_EVENT
+Remind me to call John Monday.,EVENT
+I was busy next week.,NO_EVENT
+Schedule a call with Priya on this Friday.,EVENT
+Schedule a call with David on next week.,EVENT
+Join the meeting at tonight.,EVENT
+We need to meet at 9AM.,EVENT
+We could have connected at 9AM.,NO_EVENT
+Let's connect at 9AM.,EVENT
+Let's connect at 9AM.,EVENT
+Finish the report by next week.,EVENT
+Let's connect today evening.,EVENT
+You could have done this by tomorrow.,NO_EVENT
+Let's connect tonight.,EVENT
+We could have connected at 9AM.,NO_EVENT
+Let's sync up tomorrow.,EVENT
+This should have been done by Monday.,NO_EVENT
+We talked Monday.,NO_EVENT
+We could have connected tomorrow morning.,NO_EVENT
+Let's discuss about backend this Friday.,EVENT
+"You might complete it by Tuesday, but I'm unsure.",NO_EVENT
+Let's sync up tomorrow.,EVENT
+Earlier we met Sunday.,NO_EVENT
+This should have been done by Tuesday.,NO_EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+We need to meet at 9AM.,EVENT
+Finish the report by this Friday.,EVENT
+Join the meeting at today evening.,EVENT
+Ping me this Friday.,EVENT
+We need to meet at 9AM.,EVENT
+"You might complete it by this Friday, but I'm unsure.",NO_EVENT
+We talked Sunday.,NO_EVENT
+Can this be completed by this Friday?,NO_EVENT
+We need to meet tonight.,EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+Please complete this by Monday.,EVENT
+Can this be completed by Sunday?,NO_EVENT
+Was this supposed to finish by Tuesday?,NO_EVENT
+Remind me to send the document Sunday.,EVENT
+You could have done this by this Friday.,NO_EVENT
+This should have been done by Tuesday.,NO_EVENT
+Please complete this by next week.,EVENT
+Earlier we met next week.,NO_EVENT
+Earlier we met Tuesday.,NO_EVENT
+This should have been done by tomorrow.,NO_EVENT
+Finish the report by next week.,EVENT
+Was this supposed to finish by Tuesday?,NO_EVENT
+Schedule a call with John on Tuesday.,EVENT
+We could have connected at 8PM.,NO_EVENT
+Remind me to call John Tuesday.,EVENT
+Join the meeting at today evening.,EVENT
+Finish the report by Monday.,EVENT
+Let's sync up tomorrow.,EVENT
+We could have connected today evening.,NO_EVENT
+Schedule a call with John on next week.,EVENT
+Earlier we met Sunday.,NO_EVENT
+Please complete this by next week.,EVENT
+Remind me to send the document next week.,EVENT
+We talked tomorrow.,NO_EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+We could have connected tonight.,NO_EVENT
+Join the meeting at tonight.,EVENT
+Earlier we met this Friday.,NO_EVENT
+We could have connected tonight.,NO_EVENT
+We need to meet tonight.,EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+Earlier we met this Friday.,NO_EVENT
+We need to meet today evening.,EVENT
+Was this supposed to finish by next week?,NO_EVENT
+Can this be completed by next week?,NO_EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+Let's discuss about UI flow Tuesday.,EVENT
+Let's discuss about frontend Sunday.,EVENT
+Let's discuss about API design Tuesday.,EVENT
+Can this be completed by this Friday?,NO_EVENT
+Ping me Sunday.,EVENT
+Please complete this by tomorrow.,EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+Finish the report by Tuesday.,EVENT
+Let's discuss about deployment Tuesday.,EVENT
+Please complete this by Monday.,EVENT
+Please complete this by this Friday.,EVENT
+Let's connect at 9AM.,EVENT
+Ping me tomorrow.,EVENT
+Ping me next week.,EVENT
+Schedule a call with John on Tuesday.,EVENT
+Ping me Sunday.,EVENT
+We need to meet at 8PM.,EVENT
+Ping me tomorrow.,EVENT
+Ping me Tuesday.,EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+We could have connected at 8PM.,NO_EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+I was busy next week.,NO_EVENT
+We could have connected tonight.,NO_EVENT
+Let's sync up next week.,EVENT
+"You might complete it by next week, but I'm unsure.",NO_EVENT
+We need to meet tomorrow morning.,EVENT
+Was this supposed to finish by Tuesday?,NO_EVENT
+Finish the report by tomorrow.,EVENT
+"If we had connected tonight, it would've helped.",NO_EVENT
+Was this supposed to finish by Tuesday?,NO_EVENT
+Remind me to email Sarah next week.,EVENT
+We need to meet at 9AM.,EVENT
+Finish the report by Tuesday.,EVENT
+Join the meeting at at 8PM.,EVENT
+Remind me to send the document Tuesday.,EVENT
+Let's connect tomorrow morning.,EVENT
+We need to meet tonight.,EVENT
+Schedule a call with Sarah on Sunday.,EVENT
+Ping me Monday.,EVENT
+Please complete this by Monday.,EVENT
+Schedule a call with Priya on Tuesday.,EVENT
+Finish the report by tomorrow.,EVENT
+Let's connect tonight.,EVENT
+Earlier we met tomorrow.,NO_EVENT
+Ping me tomorrow.,EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+We could have connected at 8PM.,NO_EVENT
+Let's discuss about backend Monday.,EVENT
+Please complete this by this Friday.,EVENT
+"You might complete it by Monday, but I'm unsure.",NO_EVENT
+Schedule a call with John on Sunday.,EVENT
+Finish the report by Monday.,EVENT
+Schedule a call with Sarah on Monday.,EVENT
+Schedule a call with Priya on Sunday.,EVENT
+Earlier we met next week.,NO_EVENT
+We talked this Friday.,NO_EVENT
+We talked tomorrow.,NO_EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+I was busy Tuesday.,NO_EVENT
+Earlier we met tomorrow.,NO_EVENT
+Schedule a call with Priya on tomorrow.,EVENT
+Ping me next week.,EVENT
+Let's sync up next week.,EVENT
+This should have been done by tomorrow.,NO_EVENT
+Finish the report by next week.,EVENT
+Let's discuss about API design Tuesday.,EVENT
+Let's sync up Tuesday.,EVENT
+Let's connect tomorrow morning.,EVENT
+Finish the report by this Friday.,EVENT
+Can this be completed by Tuesday?,NO_EVENT
+"If we had connected at 9AM, it would've helped.",NO_EVENT
+I was busy this Friday.,NO_EVENT
+Earlier we met next week.,NO_EVENT
+Remind me to call John next week.,EVENT
+Join the meeting at today evening.,EVENT
+Can this be completed by Monday?,NO_EVENT
+We could have connected at 8PM.,NO_EVENT
+We need to meet tomorrow morning.,EVENT
+You could have done this by this Friday.,NO_EVENT
+Let's connect at 8PM.,EVENT
+Finish the report by next week.,EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+Finish the report by tomorrow.,EVENT
+Let's sync up Monday.,EVENT
+Please complete this by Monday.,EVENT
+We need to meet at 8PM.,EVENT
+Please complete this by Tuesday.,EVENT
+We need to meet at 8PM.,EVENT
+Please complete this by Sunday.,EVENT
+Please complete this by tomorrow.,EVENT
+"If we had connected at 9AM, it would've helped.",NO_EVENT
+We talked this Friday.,NO_EVENT
+We need to meet at 9AM.,EVENT
+Let's sync up this Friday.,EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+Let's discuss about deployment Monday.,EVENT
+Earlier we met Tuesday.,NO_EVENT
+I was busy this Friday.,NO_EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+Ping me Monday.,EVENT
+Schedule a call with John on tomorrow.,EVENT
+Please complete this by Sunday.,EVENT
+Please complete this by Tuesday.,EVENT
+We need to meet today evening.,EVENT
+Schedule a call with Priya on tomorrow.,EVENT
+I was busy this Friday.,NO_EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+Join the meeting at at 8PM.,EVENT
+Can this be completed by Sunday?,NO_EVENT
+Let's discuss about API design Monday.,EVENT
+"You might complete it by Monday, but I'm unsure.",NO_EVENT
+"You might complete it by this Friday, but I'm unsure.",NO_EVENT
+I was busy Monday.,NO_EVENT
+Let's sync up tomorrow.,EVENT
+Can this be completed by Monday?,NO_EVENT
+Let's discuss about backend Monday.,EVENT
+Remind me to email Sarah this Friday.,EVENT
+We talked tomorrow.,NO_EVENT
+I was busy Monday.,NO_EVENT
+We need to meet at 8PM.,EVENT
+Let's discuss about frontend next week.,EVENT
+Can this be completed by next week?,NO_EVENT
+We need to meet today evening.,EVENT
+I was busy Monday.,NO_EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+Schedule a call with John on this Friday.,EVENT
+We need to meet tomorrow morning.,EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+Ping me this Friday.,EVENT
+We talked tomorrow.,NO_EVENT
+Please complete this by Tuesday.,EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+Let's discuss about deployment Monday.,EVENT
+Can this be completed by Tuesday?,NO_EVENT
+Join the meeting at tomorrow morning.,EVENT
+This should have been done by next week.,NO_EVENT
+Remind me to send the document tomorrow.,EVENT
+This should have been done by Sunday.,NO_EVENT
+I was busy Sunday.,NO_EVENT
+Ping me Tuesday.,EVENT
+Finish the report by tomorrow.,EVENT
+Let's discuss about frontend Monday.,EVENT
+You could have done this by Tuesday.,NO_EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+Let's connect at 9AM.,EVENT
+Finish the report by tomorrow.,EVENT
+This should have been done by Monday.,NO_EVENT
+You could have done this by Sunday.,NO_EVENT
+Let's sync up next week.,EVENT
+You could have done this by tomorrow.,NO_EVENT
+Let's sync up Tuesday.,EVENT
+Remind me to review the code Tuesday.,EVENT
+Join the meeting at today evening.,EVENT
+We could have connected tomorrow morning.,NO_EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+Schedule a call with John on this Friday.,EVENT
+Let's discuss about backend Monday.,EVENT
+Let's connect tomorrow morning.,EVENT
+This should have been done by Sunday.,NO_EVENT
+You could have done this by Tuesday.,NO_EVENT
+Let's connect tomorrow morning.,EVENT
+We talked this Friday.,NO_EVENT
+Was this supposed to finish by Tuesday?,NO_EVENT
+Let's discuss about API design next week.,EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+This should have been done by tomorrow.,NO_EVENT
+Finish the report by Sunday.,EVENT
+Please complete this by Monday.,EVENT
+Remind me to email Sarah Monday.,EVENT
+Earlier we met Monday.,NO_EVENT
+Schedule a call with Sarah on tomorrow.,EVENT
+Remind me to send the document Monday.,EVENT
+Can this be completed by this Friday?,NO_EVENT
+You could have done this by Sunday.,NO_EVENT
+We could have connected at 9AM.,NO_EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+We need to meet at 9AM.,EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+Let's sync up tomorrow.,EVENT
+Remind me to email Sarah next week.,EVENT
+Let's connect tomorrow morning.,EVENT
+Please complete this by Tuesday.,EVENT
+Please complete this by next week.,EVENT
+Join the meeting at tonight.,EVENT
+Remind me to review the code Tuesday.,EVENT
+Remind me to send the document Tuesday.,EVENT
+Can this be completed by Tuesday?,NO_EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+Earlier we met this Friday.,NO_EVENT
+Can this be completed by Sunday?,NO_EVENT
+Earlier we met tomorrow.,NO_EVENT
+Finish the report by Tuesday.,EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+Earlier we met next week.,NO_EVENT
+Ping me Monday.,EVENT
+We talked this Friday.,NO_EVENT
+I was busy Monday.,NO_EVENT
+"If we had connected at 9AM, it would've helped.",NO_EVENT
+We could have connected tomorrow morning.,NO_EVENT
+We need to meet tomorrow morning.,EVENT
+We talked Tuesday.,NO_EVENT
+Remind me to call John Monday.,EVENT
+We need to meet tonight.,EVENT
+We need to meet today evening.,EVENT
+"You might complete it by this Friday, but I'm unsure.",NO_EVENT
+Finish the report by Sunday.,EVENT
+We need to meet tonight.,EVENT
+Earlier we met next week.,NO_EVENT
+Remind me to review the code this Friday.,EVENT
+Let's discuss about backend Sunday.,EVENT
+"You might complete it by this Friday, but I'm unsure.",NO_EVENT
+Earlier we met this Friday.,NO_EVENT
+Let's discuss about UI flow tomorrow.,EVENT
+Let's sync up Sunday.,EVENT
+We talked Tuesday.,NO_EVENT
+Schedule a call with Sarah on tomorrow.,EVENT
+We talked Sunday.,NO_EVENT
+Finish the report by tomorrow.,EVENT
+Can this be completed by next week?,NO_EVENT
+Let's connect tonight.,EVENT
+Schedule a call with John on next week.,EVENT
+We could have connected tomorrow morning.,NO_EVENT
+This should have been done by tomorrow.,NO_EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+Let's sync up tomorrow.,EVENT
+Remind me to send the document next week.,EVENT
+This should have been done by next week.,NO_EVENT
+Ping me tomorrow.,EVENT
+Let's sync up tomorrow.,EVENT
+This should have been done by Tuesday.,NO_EVENT
+Ping me Sunday.,EVENT
+Please complete this by Tuesday.,EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+This should have been done by Sunday.,NO_EVENT
+"You might complete it by Monday, but I'm unsure.",NO_EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+We need to meet tonight.,EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+Can this be completed by Tuesday?,NO_EVENT
+Please complete this by tomorrow.,EVENT
+Please complete this by this Friday.,EVENT
+Please complete this by this Friday.,EVENT
+Remind me to review the code Monday.,EVENT
+Earlier we met Sunday.,NO_EVENT
+Finish the report by this Friday.,EVENT
+Earlier we met Tuesday.,NO_EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+Let's connect at 9AM.,EVENT
+Ping me tomorrow.,EVENT
+Join the meeting at tonight.,EVENT
+Let's connect tomorrow morning.,EVENT
+Earlier we met Monday.,NO_EVENT
+Ping me Monday.,EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+Let's connect at 8PM.,EVENT
+Please complete this by tomorrow.,EVENT
+Please complete this by Tuesday.,EVENT
+You could have done this by next week.,NO_EVENT
+Can this be completed by Sunday?,NO_EVENT
+Can this be completed by next week?,NO_EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+Was this supposed to finish by tomorrow?,NO_EVENT
+Let's discuss about API design Tuesday.,EVENT
+Please complete this by Monday.,EVENT
+Can this be completed by this Friday?,NO_EVENT
+Let's connect tonight.,EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+Schedule a call with John on next week.,EVENT
+"If we had connected tonight, it would've helped.",NO_EVENT
+Remind me to call John Tuesday.,EVENT
+Earlier we met tomorrow.,NO_EVENT
+This should have been done by next week.,NO_EVENT
+Earlier we met Monday.,NO_EVENT
+You could have done this by tomorrow.,NO_EVENT
+Let's connect at 8PM.,EVENT
+We talked next week.,NO_EVENT
+This should have been done by Tuesday.,NO_EVENT
+Remind me to call John Monday.,EVENT
+Let's sync up Monday.,EVENT
+Finish the report by tomorrow.,EVENT
+Was this supposed to finish by tomorrow?,NO_EVENT
+Ping me Tuesday.,EVENT
+We could have connected tomorrow morning.,NO_EVENT
+Can this be completed by Tuesday?,NO_EVENT
+Let's connect at 8PM.,EVENT
+Earlier we met Tuesday.,NO_EVENT
+Let's discuss about backend next week.,EVENT
+Let's connect tonight.,EVENT
+Was this supposed to finish by tomorrow?,NO_EVENT
+Let's discuss about deployment this Friday.,EVENT
+We need to meet today evening.,EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+This should have been done by next week.,NO_EVENT
+Let's sync up this Friday.,EVENT
+Ping me next week.,EVENT
+I was busy next week.,NO_EVENT
+Let's discuss about backend Sunday.,EVENT
+You could have done this by this Friday.,NO_EVENT
+Was this supposed to finish by tomorrow?,NO_EVENT
+Please complete this by Monday.,EVENT
+Schedule a call with Priya on Monday.,EVENT
+Let's discuss about deployment this Friday.,EVENT
+We need to meet at 8PM.,EVENT
+Please complete this by this Friday.,EVENT
+Let's discuss about UI flow this Friday.,EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+Join the meeting at tonight.,EVENT
+We could have connected today evening.,NO_EVENT
+Earlier we met Monday.,NO_EVENT
+You could have done this by this Friday.,NO_EVENT
+You could have done this by this Friday.,NO_EVENT
+I was busy this Friday.,NO_EVENT
+Earlier we met Tuesday.,NO_EVENT
+Let's sync up next week.,EVENT
+Let's connect at 9AM.,EVENT
+"You might complete it by Tuesday, but I'm unsure.",NO_EVENT
+I was busy Sunday.,NO_EVENT
+Remind me to review the code tomorrow.,EVENT
+This should have been done by Sunday.,NO_EVENT
+Please complete this by this Friday.,EVENT
+Let's sync up Tuesday.,EVENT
+"If we had connected tonight, it would've helped.",NO_EVENT
+Can this be completed by Monday?,NO_EVENT
+You could have done this by Tuesday.,NO_EVENT
+Let's sync up Monday.,EVENT
+Finish the report by next week.,EVENT
+I was busy this Friday.,NO_EVENT
+This should have been done by this Friday.,NO_EVENT
+We talked Sunday.,NO_EVENT
+Finish the report by Tuesday.,EVENT
+Finish the report by next week.,EVENT
+Can this be completed by tomorrow?,NO_EVENT
+Remind me to send the document next week.,EVENT
+Let's connect at 9AM.,EVENT
+You could have done this by Sunday.,NO_EVENT
+Was this supposed to finish by Tuesday?,NO_EVENT
+Let's sync up Tuesday.,EVENT
+Please complete this by this Friday.,EVENT
+This should have been done by Tuesday.,NO_EVENT
+We talked this Friday.,NO_EVENT
+You could have done this by tomorrow.,NO_EVENT
+I was busy tomorrow.,NO_EVENT
+Let's connect today evening.,EVENT
+I was busy Sunday.,NO_EVENT
+"If we had connected at 9AM, it would've helped.",NO_EVENT
+Remind me to call John Sunday.,EVENT
+Let's connect tonight.,EVENT
+We talked next week.,NO_EVENT
+Can this be completed by Monday?,NO_EVENT
+This should have been done by next week.,NO_EVENT
+Schedule a call with Priya on this Friday.,EVENT
+Schedule a call with John on this Friday.,EVENT
+Let's sync up this Friday.,EVENT
+"If we had connected tonight, it would've helped.",NO_EVENT
+We need to meet tonight.,EVENT
+Ping me Tuesday.,EVENT
+We talked tomorrow.,NO_EVENT
+We talked Sunday.,NO_EVENT
+Join the meeting at tonight.,EVENT
+This should have been done by Tuesday.,NO_EVENT
+Ping me this Friday.,EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+Let's discuss about API design next week.,EVENT
+Please complete this by Tuesday.,EVENT
+Join the meeting at tonight.,EVENT
+Was this supposed to finish by Tuesday?,NO_EVENT
+We need to meet tomorrow morning.,EVENT
+You could have done this by Tuesday.,NO_EVENT
+We talked Sunday.,NO_EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+We could have connected at 8PM.,NO_EVENT
+Please complete this by tomorrow.,EVENT
+Finish the report by next week.,EVENT
+Please complete this by next week.,EVENT
+Remind me to email Sarah tomorrow.,EVENT
+We talked tomorrow.,NO_EVENT
+Let's discuss about backend tomorrow.,EVENT
+Schedule a call with Sarah on tomorrow.,EVENT
+Join the meeting at tonight.,EVENT
+Schedule a call with John on Tuesday.,EVENT
+We need to meet tonight.,EVENT
+Ping me Sunday.,EVENT
+Remind me to send the document Monday.,EVENT
+Remind me to send the document Sunday.,EVENT
+We could have connected tomorrow morning.,NO_EVENT
+We talked next week.,NO_EVENT
+Remind me to send the document tomorrow.,EVENT
+Finish the report by next week.,EVENT
+Let's sync up tomorrow.,EVENT
+"If we had connected at 9AM, it would've helped.",NO_EVENT
+Schedule a call with David on Tuesday.,EVENT
+Join the meeting at tonight.,EVENT
+Let's connect at 9AM.,EVENT
+Earlier we met tomorrow.,NO_EVENT
+Was this supposed to finish by next week?,NO_EVENT
+Remind me to call John Sunday.,EVENT
+Remind me to review the code this Friday.,EVENT
+"If we had connected at 9AM, it would've helped.",NO_EVENT
+Was this supposed to finish by Tuesday?,NO_EVENT
+Ping me this Friday.,EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+I was busy Sunday.,NO_EVENT
+Finish the report by tomorrow.,EVENT
+Let's discuss about deployment next week.,EVENT
+Earlier we met Tuesday.,NO_EVENT
+We need to meet at 9AM.,EVENT
+Let's discuss about deployment next week.,EVENT
+We talked tomorrow.,NO_EVENT
+Let's connect today evening.,EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+Join the meeting at at 9AM.,EVENT
+Earlier we met this Friday.,NO_EVENT
+Join the meeting at tonight.,EVENT
+Schedule a call with Priya on Sunday.,EVENT
+Remind me to review the code Monday.,EVENT
+Let's discuss about deployment Sunday.,EVENT
+Let's sync up next week.,EVENT
+Ping me Tuesday.,EVENT
+Finish the report by tomorrow.,EVENT
+Please complete this by Sunday.,EVENT
+Can this be completed by Sunday?,NO_EVENT
+Let's connect at 8PM.,EVENT
+Let's sync up this Friday.,EVENT
+Was this supposed to finish by next week?,NO_EVENT
+Can this be completed by Monday?,NO_EVENT
+You could have done this by Monday.,NO_EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+Please complete this by next week.,EVENT
+We talked Monday.,NO_EVENT
+Let's discuss about API design Tuesday.,EVENT
+Ping me Sunday.,EVENT
+I was busy Monday.,NO_EVENT
+We could have connected tonight.,NO_EVENT
+Let's sync up Tuesday.,EVENT
+Earlier we met tomorrow.,NO_EVENT
+We could have connected at 8PM.,NO_EVENT
+Join the meeting at at 9AM.,EVENT
+Was this supposed to finish by tomorrow?,NO_EVENT
+Let's discuss about API design Sunday.,EVENT
+Finish the report by next week.,EVENT
+Join the meeting at at 9AM.,EVENT
+"You might complete it by this Friday, but I'm unsure.",NO_EVENT
+This should have been done by Monday.,NO_EVENT
+Earlier we met Monday.,NO_EVENT
+This should have been done by Monday.,NO_EVENT
+This should have been done by Monday.,NO_EVENT
+We could have connected today evening.,NO_EVENT
+We talked Tuesday.,NO_EVENT
+Ping me this Friday.,EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+Let's discuss about UI flow this Friday.,EVENT
+Join the meeting at tonight.,EVENT
+We could have connected tonight.,NO_EVENT
+This should have been done by Tuesday.,NO_EVENT
+"You might complete it by next week, but I'm unsure.",NO_EVENT
+Join the meeting at at 8PM.,EVENT
+Can this be completed by next week?,NO_EVENT
+Schedule a call with David on Sunday.,EVENT
+Was this supposed to finish by next week?,NO_EVENT
+We need to meet tomorrow morning.,EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+We could have connected at 9AM.,NO_EVENT
+This should have been done by tomorrow.,NO_EVENT
+I was busy Tuesday.,NO_EVENT
+This should have been done by Tuesday.,NO_EVENT
+Remind me to email Sarah tomorrow.,EVENT
+I was busy Monday.,NO_EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+Let's sync up this Friday.,EVENT
+Remind me to email Sarah Sunday.,EVENT
+Finish the report by Tuesday.,EVENT
+Let's discuss about API design Sunday.,EVENT
+I was busy this Friday.,NO_EVENT
+Please complete this by tomorrow.,EVENT
+We could have connected tomorrow morning.,NO_EVENT
+Was this supposed to finish by tomorrow?,NO_EVENT
+We talked Sunday.,NO_EVENT
+We could have connected tonight.,NO_EVENT
+This should have been done by next week.,NO_EVENT
+"If we had connected at 9AM, it would've helped.",NO_EVENT
+Join the meeting at at 8PM.,EVENT
+Finish the report by next week.,EVENT
+This should have been done by this Friday.,NO_EVENT
+Let's connect at 8PM.,EVENT
+We could have connected at 8PM.,NO_EVENT
+Ping me Monday.,EVENT
+Finish the report by Monday.,EVENT
+I was busy tomorrow.,NO_EVENT
+Let's discuss about API design Monday.,EVENT
+Earlier we met this Friday.,NO_EVENT
+Remind me to email Sarah Monday.,EVENT
+Remind me to email Sarah tomorrow.,EVENT
+Can this be completed by Monday?,NO_EVENT
+Finish the report by Sunday.,EVENT
+Earlier we met this Friday.,NO_EVENT
+Please complete this by Tuesday.,EVENT
+Remind me to call John next week.,EVENT
+Ping me Sunday.,EVENT
+Can this be completed by Tuesday?,NO_EVENT
+I was busy next week.,NO_EVENT
+Please complete this by tomorrow.,EVENT
+This should have been done by tomorrow.,NO_EVENT
+This should have been done by next week.,NO_EVENT
+Earlier we met this Friday.,NO_EVENT
+Earlier we met tomorrow.,NO_EVENT
+Join the meeting at today evening.,EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+Let's discuss about frontend tomorrow.,EVENT
+Was this supposed to finish by next week?,NO_EVENT
+Finish the report by this Friday.,EVENT
+Ping me next week.,EVENT
+Please complete this by Tuesday.,EVENT
+Let's connect tomorrow morning.,EVENT
+We need to meet at 9AM.,EVENT
+Please complete this by tomorrow.,EVENT
+Schedule a call with David on next week.,EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+Earlier we met Monday.,NO_EVENT
+We talked Monday.,NO_EVENT
+Join the meeting at at 9AM.,EVENT
+I was busy Tuesday.,NO_EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+Schedule a call with Priya on Monday.,EVENT
+Let's connect at 8PM.,EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+You could have done this by Monday.,NO_EVENT
+Ping me next week.,EVENT
+Remind me to call John Monday.,EVENT
+Join the meeting at today evening.,EVENT
+Let's discuss about API design this Friday.,EVENT
+Let's discuss about API design Monday.,EVENT
+Can this be completed by tomorrow?,NO_EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+Finish the report by Sunday.,EVENT
+We could have connected at 9AM.,NO_EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+Schedule a call with Sarah on Monday.,EVENT
+Can this be completed by tomorrow?,NO_EVENT
+Finish the report by Tuesday.,EVENT
+Let's connect tomorrow morning.,EVENT
+Ping me Tuesday.,EVENT
+Please complete this by Monday.,EVENT
+Let's sync up Tuesday.,EVENT
+Ping me Monday.,EVENT
+Join the meeting at at 8PM.,EVENT
+Let's sync up this Friday.,EVENT
+You could have done this by this Friday.,NO_EVENT
+We talked next week.,NO_EVENT
+Was this supposed to finish by this Friday?,NO_EVENT
+Let's sync up Monday.,EVENT
+Let's sync up tomorrow.,EVENT
+Ping me tomorrow.,EVENT
+Please complete this by next week.,EVENT
+Finish the report by tomorrow.,EVENT
+Was this supposed to finish by tomorrow?,NO_EVENT
+We need to meet today evening.,EVENT
+Can this be completed by next week?,NO_EVENT
+Schedule a call with Priya on Monday.,EVENT
+Schedule a call with John on next week.,EVENT
+We need to meet today evening.,EVENT
+Schedule a call with David on this Friday.,EVENT
+Can this be completed by Tuesday?,NO_EVENT
+Let's connect tomorrow morning.,EVENT
+Remind me to email Sarah Tuesday.,EVENT
+Let's sync up Monday.,EVENT
+Please complete this by this Friday.,EVENT
+You could have done this by Sunday.,NO_EVENT
+We talked tomorrow.,NO_EVENT
+You could have done this by next week.,NO_EVENT
+Can this be completed by this Friday?,NO_EVENT
+This should have been done by next week.,NO_EVENT
+Earlier we met tomorrow.,NO_EVENT
+Ping me tomorrow.,EVENT
+Please complete this by Monday.,EVENT
+Please complete this by Tuesday.,EVENT
+I was busy Monday.,NO_EVENT
+Remind me to review the code tomorrow.,EVENT
+We need to meet at 8PM.,EVENT
+"If we had connected at 8PM, it would've helped.",NO_EVENT
+Ping me next week.,EVENT
+This should have been done by next week.,NO_EVENT
+Let's connect tonight.,EVENT
+"If we had connected at 9AM, it would've helped.",NO_EVENT
+Finish the report by this Friday.,EVENT
+"If we had connected today evening, it would've helped.",NO_EVENT
+Let's sync up next week.,EVENT
+Was this supposed to finish by Sunday?,NO_EVENT
+We could have connected tonight.,NO_EVENT
+Was this supposed to finish by Tuesday?,NO_EVENT
+Let's sync up Tuesday.,EVENT
+Let's discuss about backend Sunday.,EVENT
+Let's sync up Sunday.,EVENT
+Please complete this by next week.,EVENT
+We need to meet at 8PM.,EVENT
+Let's sync up next week.,EVENT
+Can this be completed by Tuesday?,NO_EVENT
+Remind me to email Sarah Tuesday.,EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+I was busy tomorrow.,NO_EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+Finish the report by tomorrow.,EVENT
+"If we had connected tomorrow morning, it would've helped.",NO_EVENT
+You could have done this by Tuesday.,NO_EVENT
+Join the meeting at tonight.,EVENT
+"If we had connected at 9AM, it would've helped.",NO_EVENT
+This should have been done by this Friday.,NO_EVENT
+Let's connect at 9AM.,EVENT
+This should have been done by Monday.,NO_EVENT
+Let's connect at 8PM.,EVENT
+Let's connect at 9AM.,EVENT
+Please complete this by Monday.,EVENT
+Earlier we met tomorrow.,NO_EVENT
+Join the meeting at tomorrow morning.,EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+Was this supposed to finish by next week?,NO_EVENT
+Let's connect today evening.,EVENT
+Schedule a call with John on Tuesday.,EVENT
+Let's sync up this Friday.,EVENT
+Let's connect tomorrow morning.,EVENT
+Join the meeting at at 9AM.,EVENT
+Earlier we met Monday.,NO_EVENT
+We talked Tuesday.,NO_EVENT
+You could have done this by next week.,NO_EVENT
+This should have been done by Sunday.,NO_EVENT
+"You might complete it by Tuesday, but I'm unsure.",NO_EVENT
+We need to meet tomorrow morning.,EVENT
+Let's sync up Sunday.,EVENT
+Let's discuss about deployment this Friday.,EVENT
+We could have connected at 9AM.,NO_EVENT
+We talked Sunday.,NO_EVENT
+This should have been done by Tuesday.,NO_EVENT
+You could have done this by Monday.,NO_EVENT
+Schedule a call with Sarah on Monday.,EVENT
+Ping me Tuesday.,EVENT
+Ping me Monday.,EVENT
+Let's connect tomorrow morning.,EVENT
+You could have done this by Tuesday.,NO_EVENT
+Remind me to call John Tuesday.,EVENT
+Join the meeting at at 8PM.,EVENT
+Let's connect at 9AM.,EVENT
+Ping me next week.,EVENT
+This should have been done by next week.,NO_EVENT
+"You might complete it by Tuesday, but I'm unsure.",NO_EVENT
+We talked next week.,NO_EVENT
+Was this supposed to finish by Monday?,NO_EVENT
+Let's sync up next week.,EVENT
+Finish the report by Sunday.,EVENT
+"You might complete it by Monday, but I'm unsure.",NO_EVENT
+Can this be completed by Tuesday?,NO_EVENT
+Earlier we met next week.,NO_EVENT
+Please complete this by next week.,EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+Please complete this by Sunday.,EVENT
+Let's discuss about UI flow this Friday.,EVENT
+Let's sync up Monday.,EVENT
+Finish the report by next week.,EVENT
+"You might complete it by Monday, but I'm unsure.",NO_EVENT
+Join the meeting at at 8PM.,EVENT
+Join the meeting at tonight.,EVENT
+Let's sync up tomorrow.,EVENT
+Please complete this by tomorrow.,EVENT
+"If we had connected at 9AM, it would've helped.",NO_EVENT
+Earlier we met this Friday.,NO_EVENT
+Let's discuss about API design Monday.,EVENT
+Let's discuss about deployment Sunday.,EVENT
+Let's discuss about UI flow Sunday.,EVENT
+Please complete this by Sunday.,EVENT
+Was this supposed to finish by Tuesday?,NO_EVENT
+I was busy Sunday.,NO_EVENT
+Let's discuss about deployment Tuesday.,EVENT
+"You might complete it by tomorrow, but I'm unsure.",NO_EVENT
+I was busy tomorrow.,NO_EVENT
+Let's sync up Sunday.,EVENT
+This should have been done by Monday.,NO_EVENT
+I was busy tomorrow.,NO_EVENT
+"You might complete it by Sunday, but I'm unsure.",NO_EVENT
+We need to meet tomorrow morning.,EVENT
+We talked next week.,NO_EVENT
+This should have been done by Sunday.,NO_EVENT
+Join the meeting at at 8PM.,EVENT
+Ping me Tuesday.,EVENT
+Let's connect at 9AM.,EVENT
+We need to meet at 9AM.,EVENT
+I was busy tomorrow.,NO_EVENT
+Remind me to call John Tuesday.,EVENT
+Was this supposed to finish by next week?,NO_EVENT

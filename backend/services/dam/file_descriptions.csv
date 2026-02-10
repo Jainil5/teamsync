@@ -1,0 +1,155 @@
+﻿file_id,file_name,link,description
+1,Project Alpha.txt,"https://drive.google.com/file/d/1edfcNsmIQGAjN11WfD9sxTEgw0I4JDzf/view?usp=drive_link","{
+        ""title"": ""Project Alpha – Sales Analytics System for Adidas"",
+        ""caption"": ""Project Alpha is a sales analytics and forecasting system for Adidas, built by TeamSync Data Intelligence Division, featuring real‑time dashboards, ML forecasting, and automated reporting."",
+        ""keywords"": [""project alpha"", ""adidas"", ""teamsync"", ""sales analytics"", ""forecasting"", ""dashboards"", ""machine learning"", ""python"", ""sql"", ""pandas"", ""numpy"", ""postgresql"", ""power bi"", ""streamlit"", ""scikit-learn"", ""xgboost"", ""lstm"", ""arima"", ""random forest"", ""aws"", ""ec2"", ""s3"", ""github"", ""shopify"", ""zoho""]
+}"
+2,College_Marks_Dataset.csv,"https://drive.google.com/file/d/16WlJ4jRoAyEOzMDYcXsKTHT1CRqpFKyQ/view?usp=drive_link","{
+        ""title"": ""Dataset - Student Academic Records"",
+        ""caption"": ""Dataset containing student IDs, names, class, SSC, HSC, and college marks, attendance percentage, and grade."",
+        ""keywords"": [""dataset"", ""student"", ""academic records"", ""ssc marks"", ""hsc marks"", ""college marks"", ""attendance percentage"", ""grade"", ""csv"", ""data table""]
+}"
+3,healthcare_dataset.csv,"https://drive.google.com/file/d/1R-6M4bVPv80N1sHDkvscDEZvDkkJ8NpC/view?usp=drive_link","{
+  ""title"": ""Medical Records Dataset"",
+  ""caption"": ""Dataset containing patient demographics, medical conditions, admission details, billing, and treatment information for hospital records."",
+  ""keywords"": [""dataset"", ""medical records"", ""patient"", ""demographics"", ""age"", ""gender"", ""blood type"", ""medical condition"", ""admission date"", ""doctor"", ""hospital"", ""insurance provider"", ""billing amount"", ""room number"", ""admission type"", ""discharge date"", ""medication"", ""test results"", ""csv"", ""data"", ""healthcare"", ""hospital data"", ""patient data"", ""medical dataset""]
+}"
+4,clothing_sales_combined.csv,"https://drive.google.com/file/d/1WElsV_-JcuLmUDbJUucHn2BXxj-He1fz/view?usp=drive_link","{
+  ""title"": ""Dataset - Customer Purchase Records"",
+  ""caption"": ""Dataset of customer purchase records including date, time, customer demographics, product details, pricing, discounts, payment mode, reviews, return status, revenue, and year/month."",
+  ""keywords"": [""dataset"", ""customer purchase"", ""sales data"", ""date"", ""day"", ""time"", ""customer id"", ""name"", ""age"", ""gender"", ""email"", ""product"", ""size"", ""subcategory"", ""category"", ""actual price"", ""discount"", ""discount type"", ""payment"", ""review"", ""return"", ""discount amount"", ""revenue"", ""year"", ""month""]
+}"
+5,2306.08161.pdf,"https://drive.google.com/file/d/1Wi-ZqO0Xxx5EribGm2GB-Q2wISr6GtL0/view?usp=drive_link","{
+  ""title"": ""h2oGPT: Democratizing Large Language Models"",
+  ""caption"": ""Open‑source research paper presenting h2oGPT, a suite of fine‑tuned transformer models and tools for building LLM‑powered applications, released under Apache 2.0."",
+  ""keywords"": [
+    ""research paper"",
+    ""h2ogpt"",
+    ""h2o.ai"",
+    ""h2o-llmstudio"",
+    ""github"",
+    ""huggingface"",
+    ""transformer"",
+    ""large language model"",
+    ""open-source"",
+    ""apache 2.0"",
+    ""nlp"",
+    ""ai"",
+    ""llm"",
+    ""fine-tuning"",
+    ""lora"",
+    ""vector database"",
+    ""document search"",
+    ""chatbot"",
+    ""privacy"",
+    ""data"",
+    ""model"",
+    ""code"",
+    ""license"",
+    ""community"",
+    ""deployment""
+  ]
+}"
+7,Jay Modhiya Resume.pdf,"https://drive.google.com/file/d/1w2EGEZXpIoQA9eseDOo0zsNyyiUEOE3D/view?usp=drive_link","{
+  ""title"": ""Resume - Jay Modhiya"",
+  ""caption"": ""Resume of Jay Modhiya, a B.Tech Information Technology graduate with experience in AI/ML, Python, Django, and data analysis, having led projects like career prediction and disease diagnosis systems."",
+  ""keywords"": [""resume"", ""jay modhiya"", ""mit adt university"", ""bachelor of technology"", ""information technology"", ""artificial intelligence"", ""machine learning"", ""python"", ""django"", ""scikit-learn"", ""tensorflow"", ""postgres"", ""jupyter notebook"", ""tableau"", ""linux"", ""jenkins"", ""github"", ""data analysis"", ""nlp"", ""web development"", ""career analysis"", ""smart india hackathon"", ""team leader"", ""cricket captain"", ""certifications"", ""introduction to artificial intelligence""]
+}"
+8,Leave Policy.pdf,"https://drive.google.com/file/d/1ZeCZkLO0DOXD-292cKyXO3ZxZkDUjB7P/view?usp=sharing","{
+  ""title"": ""Leave Policy - TeamSync"",
+  ""caption"": ""TeamSync leave policy outlining types of leave, application process, documentation requirements, carry‑forward rules, and contact information."",
+  ""keywords"": [
+    ""leave policy"",
+    ""teamsync"",
+    ""policy"",
+    ""hr policy"",
+    ""annual leave"",
+    ""paid leave"",
+    ""sick leave"",
+    ""maternity leave"",
+    ""paternity leave"",
+    ""casual leave"",
+    ""unpaid leave"",
+    ""carry forward"",
+    ""encashment"",
+    ""public holidays"",
+    ""emergency leave"",
+    ""leave application"",
+    ""manager approval"",
+    ""hr"",
+    ""leave types"",
+    ""leave rules""
+  ]
+}"
+9,jainil-resume.pdf,"https://drive.google.com/file/d/1P8FctBO5cRsizWMHritOSrzjD6XdXKeB/view?usp=drive_link","{
+  ""title"": ""Resume - Jainil Patel"",
+  ""caption"": ""Resume of Jainil Patel, an AI developer and data scientist with experience in backend development, NLP, computer vision, and cloud services across companies like Smollan India, Odyssey Consulting, and TeamSync."",
+  ""keywords"": [
+    ""resume"",
+    ""jainil patel"",
+    ""ai developer"",
+    ""data scientist"",
+    ""smollan india"",
+    ""google"",
+    ""odyssey consulting"",
+    ""effybiz"",
+    ""appgambit"",
+    ""teamsync"",
+    ""python"",
+    ""flask"",
+    ""fastapi"",
+    ""django"",
+    ""mongodb"",
+    ""aws"",
+    ""gcp"",
+    ""tensorflow"",
+    ""pytorch"",
+    ""langchain"",
+    ""spacy"",
+    ""yolo"",
+    ""rag"",
+    ""prompt engineering"",
+    ""eda""
+  ]
+}"
+10,resume2.pdf,"https://drive.google.com/file/d/1OIz1Np6aiJTmhdxoBKU2PqcbQM98bdX8/view?usp=drive_link","{
+  ""title"": ""Resume - Riya Patel"",
+  ""caption"": ""Resume of Riya Patel, Marketing Manager with experience at Ginyard International Co., education from Borcelle University, and skills in UI/UX, inside sales, and marketing."",
+  ""keywords"": [""resume"", ""riya patel"", ""marketing manager"", ""ginyard international"", ""borcelle university"", ""ui/ux"", ""inside sales"", ""marketing"", ""business management"", ""sales representative"", ""user flows"", ""wireframes"", ""storyboards"", ""process flows"", ""english"", ""spanish"", ""phone"", ""email"", ""contact""]
+}"
+11,rewiews-response.csv,"https://drive.google.com/file/d/1FE2qZByaVNv4Qx-xpK5unVasFgjDhdZS/view?usp=drive_link","{
+        ""title"": ""Dataset - Review and Response"",
+        ""caption"": ""Dataset with two columns: review and response, suitable for sentiment or QA analysis."",
+        ""keywords"": [""dataset"", ""review"", ""response"", ""csv"", ""columns"", ""data""]
+}"
+12,study material Design  of Experiments and factor Analysis.pdf,"https://drive.google.com/file/d/1AR5DmCR681c5sOZRGnkrCW8b4gMNix1i/view?usp=drive_link","{
+  ""title"": ""Design of Experiments and Factor Analysis Definition"",
+  ""caption"": ""Comprehensive guide covering experimental design concepts such as CRD, RBD, LSD, Latin square, and ANOVA analysis for statistical inference."",
+  ""keywords"": [
+    ""research paper"",
+    ""design of experiments"",
+    ""factor analysis"",
+    ""crd"",
+    ""randomized block design"",
+    ""latin square design"",
+    ""anova"",
+    ""statistical analysis"",
+    ""experimental design"",
+    ""treatment"",
+    ""block"",
+    ""yield"",
+    ""precision"",
+    ""replication"",
+    ""randomization"",
+    ""local control"",
+    ""experimental error"",
+    ""uniformity trials"",
+    ""experimental unit"",
+    ""experimental material"",
+    ""statistical inference"",
+    ""hypothesis testing"",
+    ""p-value"",
+    ""f-ratio"",
+    ""variance""
+  ]
+}"
